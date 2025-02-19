@@ -2,7 +2,7 @@
     {
         "title": "TOEIC",
         "imageUrl": "https://www.smartcom.vn/wp-content/uploads/2024/05/toeic-smartcom-english_optimized.jpg",
-        "key": "toeic",
+        "key": "toeic"
     }, {
         "title": "TOEFL",
         "imageUrl": "https://www.smartcom.vn/wp-content/uploads/2024/05/TOEFL-la-gi.jpg",
