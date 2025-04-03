@@ -47,3 +47,11 @@ def remove_domain_from_url(url):
     except Exception as e:
         print(f"❌ Lỗi khi xử lý URL '{url}': {e}")
         return url
+
+
+def get_text_or_empty(element, selector, attr=None):
+    """Trả về text hoặc attribute của element nếu tồn tại, ngược lại trả về rỗng."""
+    selected = element.select_one(selector) if element else None
+    if attr and selected:
+        return selected.get(attr, "").strip()
+    return selected.get_text(strip=True) if selected else ""

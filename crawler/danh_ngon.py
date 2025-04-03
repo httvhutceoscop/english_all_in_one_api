@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import os
-from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url
+from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url, get_text_or_empty
 
 BASE_URL = "https://tienganhtflat.com/danh-ngon?page={}&per-page=18"
 CAT_TINH_YEU = "tinh-yeu"
@@ -23,6 +23,7 @@ DANH_NGON = {
 def crawl_all_quotes(category):
     page = 1
     all_quotes = []
+    count = 1
 
     while True:
         quotes = []
@@ -69,6 +70,7 @@ def crawl_all_quotes(category):
             ) if block.select_one("p.hide-mobile span i.fa.fa-user") else ""
 
             quote = {
+                "id": count,
                 "a_href": a_href,
                 "img_thumb": img_thumb,
                 "text_en": text_en,
@@ -82,6 +84,7 @@ def crawl_all_quotes(category):
 
             all_quotes.append(quote)
             quotes.append(quote)
+            count += 1
 
         directory = f"api/danhngon/{category}"
         save_to_json(quotes, directory=directory, filename=f"{page}.json")
@@ -98,49 +101,46 @@ def crawl_all_quotes(category):
 
 
 def crawl_vocab(url):
-    response = requests.get(url)
-    if response.status_code != 200:
-        print("❌ Lỗi khi truy cập trang:", url)
-        return
-    # Phân tích cú pháp HTML của trang
+    """Thu thập từ vựng từ URL và trả về danh sách từ vựng."""
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"❌ Lỗi khi truy cập trang {url}: {e}")
+        return []
 
     soup = BeautifulSoup(response.text, "html.parser")
     words_list = soup.select(".words-list .item-content")
+
     words = []
     for word in words_list:
-        img_thumb = word.select_one(
-            ".img-thumb")["src"] if word.select_one(".img-thumb") else ""
-        img_thumb = remove_domain_from_url(img_thumb)
-        img_thumb = HOST_MEDIA + img_thumb
+        img_thumb = HOST_MEDIA + \
+            remove_domain_from_url(
+                get_text_or_empty(word, ".img-thumb", "src"))
+        pronunciation = word.select_one(
+            "div p a").next_sibling.strip() if word.select_one("div p a") else ""
         word_type = word.select_one(
             "div p b").next_sibling.strip() if word.select_one("div p b") else ""
         word_type = word_type.replace("\n", "")
-        pronoun = word.select_one(
-            "div p a").next_sibling.strip() if word.select_one("div p a") else ""
-        text_en = word.select_one(
-            "div p b").get_text(strip=True) if word.select_one("div p b") else ""
-        text_vi = word.select_one(
-            "div p i").get_text(strip=True) if word.select_one("div p i") else ""
-        audio = word.select_one(
-            "div p a")["href"] if word.select_one("div p a") else ""
-        audio = remove_domain_from_url(audio)
-        audio = HOST_MEDIA + audio
-        # Lấy ví dụ
+        text_en = get_text_or_empty(word, "div p b")
+        text_vi = get_text_or_empty(word, "div p i")
+        audio = HOST_MEDIA + \
+            remove_domain_from_url(get_text_or_empty(word, "div p a", "href"))
+
+        # Lấy ví dụ nếu có
         example_block = word.select_one("div p:nth-of-type(2)")
-        ex_en = example_block.select_one("b").next_sibling.strip(
-        ) if example_block and example_block.select_one("b") else ""
-        ex_vi = example_block.select_one("i").get_text(
-            strip=True) if example_block and example_block.select_one("i") else ""
+        example_en = get_text_or_empty(example_block, "b")
+        example_vi = get_text_or_empty(example_block, "i")
 
         words.append({
             "img_thumb": img_thumb,
             "text_en": text_en,
             "word_type": word_type,
             "text_vi": text_vi,
-            "pronoun": pronoun,
+            "pronunciation": pronunciation,
             "audio": audio,
-            "ex_en": ex_en,
-            "ex_vi": ex_vi
+            "example_en": example_en,
+            "example_vi": example_vi
         })
 
     return words
@@ -148,11 +148,9 @@ def crawl_vocab(url):
 # for category in DANH_NGON.keys():
     # crawl_all_quotes(category)
 
-crawl_all_quotes(CAT_TINH_YEU)
+
+# crawl_all_quotes(CAT_TINH_YEU)
 # crawl_all_quotes(CAT_CUOC_SONG)
 # crawl_all_quotes(CAT_GIA_DINH)
 # crawl_all_quotes(CAT_TINH_BAN)
 # crawl_all_quotes(CAT_CONG_VIEC)
-
-# crawl_vocab(
-#     "https://tienganhtflat.com/danhngon/the-way-to-get-started-is-to-quit-talking-and-begin-doing")
