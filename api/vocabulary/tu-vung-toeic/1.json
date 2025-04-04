@@ -5,7 +5,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-23-bf1f67b5c6-c3ef6124e6c388ffb0a969b6955596a7.jpg",
     "title": "TOEIC WORDS - Media",
     "title_vi": "Từ vựng TOEIC - Chủ đề Truyền Thông",
-    "viewer": "30,125",
+    "viewer": "30,143",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -173,7 +173,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-04-c5d777260e-c3ef6124e6c388ffb0a969b6955596a7.jpg",
     "title": "TOEIC WORDS - Hospitals",
     "title_vi": "Từ vựng TOEIC - Chủ đề Bệnh Viện",
-    "viewer": "17,472",
+    "viewer": "17,478",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -341,7 +341,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-10-966535b329-e5c39b21cf758a0169d93077284cd24f.jpg",
     "title": "TOEIC WORDS - Health",
     "title_vi": "Từ vựng TOEIC - Chủ đề Sức Khỏe",
-    "viewer": "14,335",
+    "viewer": "14,342",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -509,7 +509,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/ordering-supplies-7ddbddd681-688df2cb4ef0eac72f93add37ef1ff12.jpg",
     "title": "TOEIC WORDS - Ordering Supplies",
     "title_vi": "Từ vựng Toeic - Chủ đề Đặt Hàng",
-    "viewer": "11,498",
+    "viewer": "11,504",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -665,7 +665,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-17-2fb76f63cc-d6e2c172bcade6cbd0f72deea419ebb4.jpg",
     "title": "TOEIC WORDS - Music",
     "title_vi": "Từ vựng TOEIC - Chủ đề Âm Nhạc",
-    "viewer": "10,663",
+    "viewer": "10,665",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -833,7 +833,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/investment-0c6d021fcb-e5c39b21cf758a0169d93077284cd24f.jpg",
     "title": "TOEIC WORDS - Investment",
     "title_vi": "Từ vựng Toeic - Chủ đề Sự Đầu Tư",
-    "viewer": "9,231",
+    "viewer": "9,236",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1001,7 +1001,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/hp-hi-ng-ban-qun-tr-y-ban-43559e509b-eca53013960066ec6330af25f8ba979a.jpg",
     "title": "TOEIC WORDS - Board Meeting & Committees",
     "title_vi": "Từ vựng Toeic - chủ đề Họp Hội Đồng Ban Quản Trị & Ủy Ban",
-    "viewer": "8,157",
+    "viewer": "8,161",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1157,9 +1157,154 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-24-0e850e3719-a1a071f128e911c061b1e5a1f7682b35.jpg",
     "title": "TOEIC WORDS - Property & Departments",
     "title_vi": "Từ vựng Toeic - Chủ đề Bất Động Sản & Căn Hộ",
-    "viewer": "7,713",
+    "viewer": "7,718",
     "category": "tu-vung-toeic",
-    "vocab": [],
+    "vocab": [
+      {
+        "id": 1,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/d/adjacent2.png",
+        "text_en": "adjacent",
+        "word_type": "(adj.)",
+        "text_vi": "kế bên, liền kề, sát cạnh",
+        "pronunciation": "/ə'dʤeizənt/",
+        "audio": "http://audio.tflat.vn/audio/a/d/adjacent.mp3",
+        "explain": "(adj.)\n:",
+        "example_en": "My office is adjacent to the receptionist area on the third floor.",
+        "example_vi": "Văn phòng của tôi ở bên cạnh khu vực tiếp tân ở tầng ba."
+      },
+      {
+        "id": 2,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/collaboration2.png",
+        "text_en": "collaboration",
+        "word_type": "(n.)",
+        "text_vi": "sự cộng tác, hợp tác",
+        "pronunciation": "/kə,læbə'reiʃn/",
+        "audio": "http://audio.tflat.vn/audio/c/o/collaboration.mp3",
+        "explain": "(n.)\n:",
+        "example_en": "We believe that it was our collaboration that enabled us to achieve such favorable results.",
+        "example_vi": "Chúng ta tin rằng sự hợp tác của chúng ta cho phép đạt được những kết quả có lợi đến thế."
+      },
+      {
+        "id": 3,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/concentrate2.png",
+        "text_en": "concentrate",
+        "word_type": "(v.)",
+        "text_vi": "tập trung",
+        "pronunciation": "/'kɔnsentreit/",
+        "audio": "http://audio.tflat.vn/audio/c/o/concentrate.mp3",
+        "explain": "(v.)\n:",
+        "example_en": "I can’t concentrate because it’s very noisy.",
+        "example_vi": "Tớ không thể tập trung được vì quá ồn."
+      },
+      {
+        "id": 4,
+        "img_thumb": "http://audio.tflat.vn/data/images_example/300x225/t/h/the_soft_l_ex1_56248d167f8b9a040dc66044.jpg",
+        "text_en": "conducive",
+        "word_type": "(adj.)",
+        "text_vi": "có ích, có lợi",
+        "pronunciation": "/kənˈdjuːsɪv/",
+        "audio": "http://audio.tflat.vn/audio/c/o/conducive.mp3",
+        "explain": "(adj.)\n:",
+        "example_en": "The soft lights and music were conducive to a relaxed atmosphere.",
+        "example_vi": "Các đèn chiếu sáng nhẹ và nhạc sẽ có ích cho một bầu không khí thoải mái."
+      },
+      {
+        "id": 5,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/i/disruption2.png",
+        "text_en": "disruption",
+        "word_type": "(n.)",
+        "text_vi": "‹sự› gián đoạn",
+        "pronunciation": "/dis'rʌpʃn/",
+        "audio": "http://audio.tflat.vn/audio/d/i/disruption.mp3",
+        "explain": "(n.)\n:",
+        "example_en": "The accident on the main road through town is causing widespread disruption for motorists.",
+        "example_vi": "Vụ tai nạn trên đường chính qua thị trấn đang gây ra sự gián đoạn trên diện rộng cho người lái xe."
+      },
+      {
+        "id": 6,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/hamper2.png",
+        "text_en": "hamper",
+        "word_type": "(v.)",
+        "text_vi": "cản trở, gây trở ngại",
+        "pronunciation": "/'hæmpə/",
+        "audio": "http://audio.tflat.vn/audio/h/a/hamper.mp3",
+        "explain": "(v.)\n:",
+        "example_en": "The lack of supplies hampered our ability to finish on schedule.",
+        "example_vi": "Việc thiếu đồ dự trữ đã gây trở ngại cho khả năng hoàn thành đúng thời gian của chúng tôi."
+      },
+      {
+        "id": 7,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/inconsiderately.jpg",
+        "text_en": "inconsiderately",
+        "word_type": "(adv.)",
+        "text_vi": "thiếu thận trọng, sơ suất",
+        "pronunciation": "/ˌɪnkənˈsɪdərətli/",
+        "audio": "http://audio.tflat.vn/audio/i/n/inconsiderately.mp3",
+        "explain": "(adv.)\n:",
+        "example_en": "The manager inconsiderately scheduled the meeting for late Friday afternoon.",
+        "example_vi": "Người giám đốc sơ suất lên lịch họp vào cuối buổi chiều thứ Sáu."
+      },
+      {
+        "id": 8,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/o/lobby1.png",
+        "text_en": "lobby",
+        "word_type": "(n.)",
+        "text_vi": "hành lang, sảnh chờ",
+        "pronunciation": "/'lɔbi/",
+        "audio": "http://audio.tflat.vn/audio/l/o/lobby_=_foyer.mp3",
+        "explain": "(n.)\n:",
+        "example_en": "The reception area was moved from the lobby of the building to the third floor.",
+        "example_vi": "Khu vực tiếp tân đã được chuyển từ hành lang của tòa nhà lên tầng ba."
+      },
+      {
+        "id": 9,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/o/move_up1.png",
+        "text_en": "move up",
+        "word_type": "(v.)",
+        "text_vi": "tiến lên, thăng tiến",
+        "pronunciation": "/muːv ʌp /",
+        "audio": "http://audio.tflat.vn/audio/m/o/move_up.mp3",
+        "explain": "(v.)\n:",
+        "example_en": "In order to move up in the company, employees had to demonstrate their loyalty.",
+        "example_vi": "Nhằm để thăng tiến trong công ty, các nhân viên phải biểu lộ lòng trung thành của họ."
+      },
+      {
+        "id": 10,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/p/open_to1.png",
+        "text_en": "open to",
+        "word_type": "(adj.)",
+        "text_vi": "gánh chịu, bị",
+        "pronunciation": "/ˈəʊpən tə /",
+        "audio": "http://audio.tflat.vn/audio/o/p/open_to.mp3",
+        "explain": "(adj.)\n:",
+        "example_en": "",
+        "example_vi": "Bởi vì người nhân viên điều hành cấp thấp vẫn còn trong thời gian tập sự, anh hay bị săm soi và chỉ trích."
+      },
+      {
+        "id": 11,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/p/opt1.png",
+        "text_en": "opt",
+        "word_type": "(v.)",
+        "text_vi": "chọn, chọn lựa; quyết định",
+        "pronunciation": "/ɔpt/",
+        "audio": "http://audio.tflat.vn/audio/o/p/opt.mp3",
+        "explain": "(v.)\n:",
+        "example_en": "The operations manager opted for the less expensive office design.",
+        "example_vi": "Trưởng phòng tác nghiệp đã chọn bản thiết kế văn phòng ít tốn kém."
+      },
+      {
+        "id": 12,
+        "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/c/scrutiny2.png",
+        "text_en": "scrutiny",
+        "word_type": "(n.)",
+        "text_vi": "xem xét/kiểm tra kỹ lưỡng",
+        "pronunciation": "/'skru:tini/",
+        "audio": "http://audio.tflat.vn/audio/s/c/scrutiny.mp3",
+        "explain": "(n.)\n:",
+        "example_en": "Jim left his old job because he found it difficult to work under the close scrutiny of his boss.",
+        "example_vi": "Jim đã rời bỏ công việc cũ vì anh thấy khó làm việc dưới sự săm sõi kỹ lưỡng của sếp."
+      }
+    ],
     "page": 1
   },
   {
@@ -1168,7 +1313,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/shipping-868b0aa3b7-18770f97f844182c823fa20314bc59b1.jpg",
     "title": "TOEIC WORDS - Shipping",
     "title_vi": "Từ vựng Toeic - Chủ đề Vận Chuyển Hàng Hóa",
-    "viewer": "7,614",
+    "viewer": "7,619",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1324,7 +1469,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/computer-21b94d3e22-688df2cb4ef0eac72f93add37ef1ff12.jpg",
     "title": "TOEIC WORDS - Computers and the Internet",
     "title_vi": "Từ vựng TOEIC - Chủ đề Máy Vi Tính và Mạng Internet",
-    "viewer": "10,449",
+    "viewer": "10,451",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1480,7 +1625,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/apply-and-interviewing-4caaea13f4-c3ef6124e6c388ffb0a969b6955596a7.jpg",
     "title": "TOEIC WORDS - Apply and Interviewing",
     "title_vi": "Từ vựng Toeic - chủ đề Ứng Tuyển và Phỏng Vấn",
-    "viewer": "8,666",
+    "viewer": "8,671",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1636,7 +1781,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/promotions-pensions-award-75b1e07438-a1a071f128e911c061b1e5a1f7682b35.jpg",
     "title": "TOEIC WORDS - Promotions, Pensions & Award",
     "title_vi": "Từ vựng Toeic - Chủ đề Thăng Chức, Lương Hưu & Thưởng",
-    "viewer": "7,368",
+    "viewer": "7,371",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1792,7 +1937,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/project-1-0-00-03-23-027c7130a6-261a0117fa82eca3ebfecf7177844f9d.jpg",
     "title": "TOEIC WORDS - Taxes",
     "title_vi": "Từ vựng TOEIC - Chủ đề Thuế.",
-    "viewer": "6,525",
+    "viewer": "6,527",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -1948,7 +2093,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/electronics-4c2b5fdb70-eca53013960066ec6330af25f8ba979a.jpg",
     "title": "TOEIC WORDS - Electronics",
     "title_vi": "Từ vựng TOEIC - Chủ đề Điện Tử",
-    "viewer": "8,308",
+    "viewer": "8,313",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -2104,7 +2249,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/financial-488f924cb8-d6e2c172bcade6cbd0f72deea419ebb4.jpg",
     "title": "TOEIC WORDS - Financial Statements",
     "title_vi": "Từ vựng Toeic - Chủ đề Bản báo cáo tài chính",
-    "viewer": "6,946",
+    "viewer": "6,950",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -2260,7 +2405,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/correspondence-18eb9cf31a-2a868ea65fa1014ddbc28c920a67eee3.jpg",
     "title": "TOEIC WORDS - Correspondence",
     "title_vi": "Từ vựng TOEIC - Chủ đề Thư Tín Thương Mại",
-    "viewer": "7,903",
+    "viewer": "7,906",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -2416,7 +2561,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/job-ads-recruitment-527eb35759-2d2498dfcf6c14f16d97c3d931b48e4c.jpg",
     "title": "TOEIC WORDS - Job Ads & Recruitment",
     "title_vi": "Từng vựng Toeic - Chủ đề Quảng Cáo Tìm Người & Tuyển Dụng",
-    "viewer": "9,313",
+    "viewer": "9,317",
     "category": "tu-vung-toeic",
     "vocab": [
       {
@@ -2572,7 +2717,7 @@
     "img_thumb": "https://tienganhtflat.com/cache/image/blog/hiring-and-training-994891741e-d6e2c172bcade6cbd0f72deea419ebb4.jpg",
     "title": "TOEIC WORDS - Hiring and Training",
     "title_vi": "Từ vựng Toeic - Chủ đề Tuyển Dụng & Đào Tạo",
-    "viewer": "7,582",
+    "viewer": "7,588",
     "category": "tu-vung-toeic",
     "vocab": [
       {

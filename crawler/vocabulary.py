@@ -1,11 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 import time
-import os
 from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url, get_text_or_empty
 
-CATEGORY = "tu-vung-toeic"
+TOTAL_PAGE = 1
+CATEGORY = "tu-vung-toefl"
 BASE_URL = "https://tienganhtflat.com/blog/cat/{}?page={}&per-page=18"
 
 
@@ -66,9 +65,10 @@ def crawl_all():
         print(f"✅ Đã lưu {len(page_contents)} content từ trang {page}.")
 
         page += 1
-        time.sleep(2)  # nghỉ 1s giữa các lần request để tránh bị chặn
+        print(f"✅ Nghỉ 5s giữa các lần request để tránh bị chặn.")
+        time.sleep(5)  # nghỉ 1s giữa các lần request để tránh bị chặn
 
-        if CATEGORY and page > 5:
+        if CATEGORY and page > TOTAL_PAGE:
             print("✅ Đã lấy đủ danh ngôn cho danh mục:", CATEGORY)
             break
 
@@ -98,8 +98,8 @@ def crawl_vocab(url):
         word_type = word.select_one(
             "div p b").next_sibling.strip() if word.select_one("div p b") else ""
         word_type = word_type.replace("\n", "").replace(":", "")
-        explain = word.select_one(
-            "div p:nth-of-type(2) b:nth-of-type(1)").next_sibling.strip() if word.select_one("div p a") else ""
+        explain = word.select_one("div p:nth-of-type(2) b:nth-of-type(1)").next_sibling.strip(
+        ) if word.select_one("div p:nth-of-type(2) b:nth-of-type(1)") else ""
         text_en = get_text_or_empty(word, "div p b")
         text_vi = get_text_or_empty(word, "div p i")
         audio = HOST_MEDIA + \
