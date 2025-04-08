@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup
 import time
 from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url, get_text_or_empty
 
-TOTAL_PAGE = 1
-CATEGORY = "tu-vung-toefl"
+TOTAL_PAGE = 6
+CATEGORY = "english-adventure-words"
 BASE_URL = "https://tienganhtflat.com/blog/cat/{}?page={}&per-page=18"
+API_DIR = f"api/{CATEGORY}"
 
 
 def crawl_all():
@@ -59,8 +60,7 @@ def crawl_all():
             page_contents.append(obj)
             count += 1
 
-        directory = f"api/vocabulary/{CATEGORY}"
-        save_to_json(page_contents, directory=directory,
+        save_to_json(page_contents, directory=API_DIR,
                      filename=f"{page}.json")
         print(f"✅ Đã lưu {len(page_contents)} content từ trang {page}.")
 
