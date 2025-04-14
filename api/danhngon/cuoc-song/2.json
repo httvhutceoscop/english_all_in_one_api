@@ -6,29 +6,33 @@
     "text_en": "Don't wait for the perfect moment, take the moment and make it perfect.",
     "text_vi": "Đừng chờ đợi những khoảnh khắc tuyệt vời mà hãy tự chính mình biến mọi khoảnh khắc trở nên tuyệt vời.",
     "author": "Khuyết danh",
-    "viewer": "3,973",
+    "viewer": "3,985",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/o/moment1.jpg",
         "text_en": "moment",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "khoảnh khắc, chốc lát",
-        "pronoun": "/ˈmoʊmənt/",
+        "pronunciation": "/ˈmoʊmənt/",
         "audio": "http://audio.tflat.vn/audio/m/o/moment.mp3",
-        "ex_en": "He thought for a moment before replying.",
-        "ex_vi": "Anh ta đã suy nghĩ một chốc lát trước khi trả lời"
+        "explain": "",
+        "example_en": "He thought for a moment before replying.",
+        "example_vi": "Anh ta đã suy nghĩ một chốc lát trước khi trả lời"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/e/perfect1.png",
         "text_en": "perfect",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "hoàn hảo, đầy đủ",
-        "pronoun": "/pə'fekt/",
+        "pronunciation": "/pə'fekt/",
         "audio": "http://audio.tflat.vn/audio/p/e/perfect.mp3",
-        "ex_en": "She strove to be the perfect wife",
-        "ex_vi": "Cô ấy phấn đấu trở thành người vợ hoàn hảo"
+        "explain": "",
+        "example_en": "She strove to be the perfect wife",
+        "example_vi": "Cô ấy phấn đấu trở thành người vợ hoàn hảo"
       }
     ]
   },
@@ -39,29 +43,33 @@
     "text_en": "There was never a good war, or a bad peace.",
     "text_vi": "Không bao giờ có chiến tranh tốt đẹp, cũng như hòa bình xấu xa.",
     "author": "Benjamin Franklin",
-    "viewer": "1,394",
+    "viewer": "1,399",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/e/peace-11.jpg",
         "text_en": "peace",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hòa bình, thái bình",
-        "pronoun": "/pi:s/",
+        "pronunciation": "/pi:s/",
         "audio": "http://audio.tflat.vn/audio/p/e/peace-1.mp3",
-        "ex_en": "The two communities live together in peace.",
-        "ex_vi": "Hai cộng đồng cùng sống hòa bình với nhau"
+        "explain": "",
+        "example_en": "The two communities live together in peace.",
+        "example_vi": "Hai cộng đồng cùng sống hòa bình với nhau"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/a/war1.png",
         "text_en": "war",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "chiến tranh",
-        "pronoun": "/ /wɔːr/ /",
+        "pronunciation": "/ /wɔːr/ /",
         "audio": "http://audio.tflat.vn/audio/w/a/war.mp3",
-        "ex_en": "Her husband was killed during the war.",
-        "ex_vi": "Chồng cô ta đã chết trong chiến tranh"
+        "explain": "",
+        "example_en": "Her husband was killed during the war.",
+        "example_vi": "Chồng cô ta đã chết trong chiến tranh"
       }
     ]
   },
@@ -72,19 +80,21 @@
     "text_en": "He that is of the opinion money will do everything may well be suspected of doing everything for money.",
     "text_vi": "Với người nghĩ rằng tiền có thể làm được mọi thứ, ta có thể nghi ngờ anh ta làm mọi thứ vì tiền.",
     "author": "Benjamin Franklin",
-    "viewer": "1,041",
+    "viewer": "1,046",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/suspect1.jpg",
         "text_en": "suspect",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nghi ngờ, ngờ vực",
-        "pronoun": "/səˈspekt/",
+        "pronunciation": "/səˈspekt/",
         "audio": "http://audio.tflat.vn/audio/s/u/suspect.mp3",
-        "ex_en": "I didn’t want the neighbours suspecting anything.",
-        "ex_vi": "Tôi không muốn những người hàng xóm nghi ngờ bất cứ điều gì"
+        "explain": "",
+        "example_en": "I didn’t want the neighbours suspecting anything.",
+        "example_vi": "Tôi không muốn những người hàng xóm nghi ngờ bất cứ điều gì"
       }
     ]
   },
@@ -95,49 +105,57 @@
     "text_en": "Conquering any difficulty always gives one a secret joy, for it means pushing back a boundary-line and adding to one’s ...",
     "text_vi": "Chinh phục bất cứ một sự khó khăn nào luôn đem lại cho người ta một niềm vui sướng thầm lặng, bởi điều đó cũng có nghĩa là đẩy lùi một đường ranh giới và tăng thêm tự do của bản thân.",
     "author": "Henri Frederic Amiel",
-    "viewer": "1,741",
+    "viewer": "1,753",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/conquere1.jpg",
         "text_en": "Conquere",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "chinh phục, chế ngự",
-        "pronoun": "/'kɔɳkəriɳ/",
+        "pronunciation": "/'kɔɳkəriɳ/",
         "audio": "http://audio.tflat.vn/audio/c/o/conquere.mp3",
-        "ex_en": "The only way to conquer a fear is to face it.",
-        "ex_vi": "Cách duy nhất để chinh phục nổi sợ là đối mặt với chúng"
+        "explain": "",
+        "example_en": "The only way to conquer a fear is to face it.",
+        "example_vi": "Cách duy nhất để chinh phục nổi sợ là đối mặt với chúng"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/j/o/joy1.jpg",
         "text_en": "joy",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "niềm vui, sự vui mừng",
-        "pronoun": "/joy/",
+        "pronunciation": "/joy/",
         "audio": "http://audio.tflat.vn/audio/j/o/joy.mp3",
-        "ex_en": "To his great joy, she accepted.",
-        "ex_vi": "Để cho anh ấy niềm vui tuyệt vời, cô ấy đã đồng ý"
+        "explain": "",
+        "example_en": "To his great joy, she accepted.",
+        "example_vi": "Để cho anh ấy niềm vui tuyệt vời, cô ấy đã đồng ý"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/o/boundary1.jpg",
         "text_en": "boundary",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "đường biên giới, ranh giới",
-        "pronoun": "/'baundəri/",
+        "pronunciation": "/'baundəri/",
         "audio": "http://audio.tflat.vn/audio/b/o/boundary.mp3",
-        "ex_en": "The boundary between acceptable and unacceptable behaviour",
-        "ex_vi": "Ranh giới giữa hành vi chấp nhận được và hành vi không chấp nhận được"
+        "explain": "",
+        "example_en": "The boundary between acceptable and unacceptable behaviour",
+        "example_vi": "Ranh giới giữa hành vi chấp nhận được và hành vi không chấp nhận được"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/i/liberty1.png",
         "text_en": "liberty",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tự do, quyền tự do",
-        "pronoun": "/ˈlɪbərti/",
+        "pronunciation": "/ˈlɪbərti/",
         "audio": "http://audio.tflat.vn/audio/l/i/liberty.mp3",
-        "ex_en": "the fight for justice and liberty",
-        "ex_vi": "cuộc dấu tranh cho công lý và quyền tự do"
+        "explain": "",
+        "example_en": "the fight for justice and liberty",
+        "example_vi": "cuộc dấu tranh cho công lý và quyền tự do"
       }
     ]
   },
@@ -148,29 +166,33 @@
     "text_en": "You are forgiven for your happiness and your successes only if you generously consent to share them.",
     "text_vi": "Bạn được tha thứ cho hạnh phúc và thành công của mình chỉ khi bạn sẵn sàng hào phóng chia sẻ chúng.",
     "author": "Albert Camus",
-    "viewer": "824",
+    "viewer": "829",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/e/generously1.jpg",
         "text_en": "generously",
-        "word_type": "(adv):",
+        "word_type": "(adv)",
         "text_vi": "rộng lượng, hào phóng",
-        "pronoun": "/['dʒenərəsli/",
+        "pronunciation": "/['dʒenərəsli/",
         "audio": "http://audio.tflat.vn/audio/g/e/generously.mp3",
-        "ex_en": "food is shared generously",
-        "ex_vi": "thức ăn được chia sẽ một cách hào phóng"
+        "explain": "",
+        "example_en": "food is shared generously",
+        "example_vi": "thức ăn được chia sẽ một cách hào phóng"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/consent1.jpg",
         "text_en": "consent",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đồng ý, tán thành",
-        "pronoun": "/kən'sent/",
+        "pronunciation": "/kən'sent/",
         "audio": "http://audio.tflat.vn/audio/c/o/consent.mp3",
-        "ex_en": "he consented to a search by a detective",
-        "ex_vi": "ông ấy tán thành để thám tử tìm kiếm"
+        "explain": "",
+        "example_en": "he consented to a search by a detective",
+        "example_vi": "ông ấy tán thành để thám tử tìm kiếm"
       }
     ]
   },
@@ -181,19 +203,21 @@
     "text_en": "Life is partly what we make it, and partly what is made by the friends whom we choose.",
     "text_vi": "Cuộc sống một phần là những gì chúng ta làm nên, và một phần được làm nên bởi những người bạn ta chọn làm bạn.",
     "author": "Tehyi Hsieh",
-    "viewer": "869",
+    "viewer": "875",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/a/partly1.png",
         "text_en": "partly",
-        "word_type": "(adv):",
+        "word_type": "(adv)",
         "text_vi": "một phần",
-        "pronoun": "/´pa:tli/",
+        "pronunciation": "/´pa:tli/",
         "audio": "http://audio.tflat.vn/audio/p/a/partly.mp3",
-        "ex_en": "He was only partly responsible for the accident.",
-        "ex_vi": "Anh ấy chỉ có một phần trách nhiệm cho vụ tai nạn"
+        "explain": "",
+        "example_en": "He was only partly responsible for the accident.",
+        "example_vi": "Anh ấy chỉ có một phần trách nhiệm cho vụ tai nạn"
       }
     ]
   },
@@ -204,19 +228,21 @@
     "text_en": "What good is money if it can't buy happiness?",
     "text_vi": "Tiền thì có nghĩa lý gì nếu nó không thể mua hạnh phúc?",
     "author": "Agatha Christie",
-    "viewer": "1,063",
+    "viewer": "1,071",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happiness1.jpg",
         "text_en": "happiness",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hạnh phúc",
-        "pronoun": "/'hæpinis/",
+        "pronunciation": "/'hæpinis/",
         "audio": "http://audio.tflat.vn/audio/h/a/happiness.mp3",
-        "ex_en": "She struggled to find happiness in her life",
-        "ex_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
+        "explain": "",
+        "example_en": "She struggled to find happiness in her life",
+        "example_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
       }
     ]
   },
@@ -227,19 +253,21 @@
     "text_en": "If happiness could be bought, few of us could pay the price.",
     "text_vi": "Nếu hạnh phúc có thể mua, cái giá của nó chẳng mấy ai trả được.",
     "author": "Khuyết danh",
-    "viewer": "2,790",
+    "viewer": "2,795",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/r/price1.jpg",
         "text_en": "price",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "giá tiền",
-        "pronoun": "/praɪs/",
+        "pronunciation": "/praɪs/",
         "audio": "http://audio.tflat.vn/audio/p/r/price.mp3",
-        "ex_en": "I'm only buying it if it's the right price",
-        "ex_vi": "Tôi chỉ mua nó nếu nó có giá hợp lí"
+        "explain": "",
+        "example_en": "I'm only buying it if it's the right price",
+        "example_vi": "Tôi chỉ mua nó nếu nó có giá hợp lí"
       }
     ]
   },
@@ -250,29 +278,33 @@
     "text_en": "There is no value in life except what you choose to place upon it and no happiness in any place except what you bring to it ...",
     "text_vi": "Không có giá trị nào trong cuộc sống trừ những gì bạn chọn đặt lên nó, và không có hạnh phúc ở bất cứ đâu trừ điều bạn mang đến cho bản thân mình.",
     "author": "Henry David Thoreau",
-    "viewer": "1,235",
+    "viewer": "1,243",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/v/a/value1.jpg",
         "text_en": "value",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đánh giá, định giá",
-        "pronoun": "/'vælju:/",
+        "pronunciation": "/'vælju:/",
         "audio": "http://audio.tflat.vn/audio/v/a/value.mp3",
-        "ex_en": "to think that somebody / something is important",
-        "ex_vi": "Chuyên gia đã định giá nguyên bản/cuốn sách là 7 ngàn đô-la"
+        "explain": "to think that somebody / something is important",
+        "example_en": "The expert valued the text at $7,000",
+        "example_vi": "Chuyên gia đã định giá nguyên bản/cuốn sách là 7 ngàn đô-la"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn//tienganhtflat.com/app/media/img/no-image.jpg",
         "text_en": "except",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "ngoại trừ",
-        "pronoun": "/ɪkˈsept/",
+        "pronunciation": "/ɪkˈsept/",
         "audio": "http://audio.tflat.vn/audio/e/x/except.mp3",
-        "ex_en": "We work every day except Sunday.",
-        "ex_vi": "Chúng tôi làm việc mỗi ngày ngoại trừ Chủ Nhật"
+        "explain": "",
+        "example_en": "We work every day except Sunday.",
+        "example_vi": "Chúng tôi làm việc mỗi ngày ngoại trừ Chủ Nhật"
       }
     ]
   },
@@ -283,29 +315,33 @@
     "text_en": "The power of finding beauty in the humblest things makes home happy and life lovely.",
     "text_vi": "Khả năng tìm được cái đẹp trong những điều nhỏ bé nhất khiến gia đình trở nên hạnh phúc và cuộc đời trở nên đáng yêu.",
     "author": "Khuyết danh",
-    "viewer": "965",
+    "viewer": "970",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/beauty1.jpg",
         "text_en": "Beauty",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "vẻ đẹp",
-        "pronoun": "/'bju:ti/",
+        "pronunciation": "/'bju:ti/",
         "audio": "http://audio.tflat.vn/audio/b/e/beauty.mp3",
-        "ex_en": "She is a woman of great beauty",
-        "ex_vi": "Cô ấy là một người phụ nữ đẹp tuyệt vời"
+        "explain": "",
+        "example_en": "She is a woman of great beauty",
+        "example_vi": "Cô ấy là một người phụ nữ đẹp tuyệt vời"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/u/humble1.jpg",
         "text_en": "humble",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "tầm thường, nhỏ bé",
-        "pronoun": "/hʌmbl/",
+        "pronunciation": "/hʌmbl/",
         "audio": "http://audio.tflat.vn/audio/h/u/humble.mp3",
-        "ex_en": "I felt very humble when meeting her",
-        "ex_vi": "Tôi cảm thấy mình nhỏ bé khi gặp cô ấy"
+        "explain": "",
+        "example_en": "I felt very humble when meeting her",
+        "example_vi": "Tôi cảm thấy mình nhỏ bé khi gặp cô ấy"
       }
     ]
   },
@@ -316,39 +352,45 @@
     "text_en": "Life’s challenges are not supposed to paralyze you, they’re supposed to help you discover who you are.",
     "text_vi": "Những thử thách của cuộc đời không có ý làm tê liệt ta, chúng có ý giúp ta khám phá ra ta là ai.",
     "author": "Bernice Johnson Reagon",
-    "viewer": "915",
+    "viewer": "921",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/a/paralyse1.jpg",
         "text_en": "paralyse",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "làm tê liệt",
-        "pronoun": "/ˈpærəlaɪz/",
+        "pronunciation": "/ˈpærəlaɪz/",
         "audio": "http://audio.tflat.vn/audio/p/a/paralyse.mp3",
-        "ex_en": "= paralyze",
-        "ex_vi": "Sân bay vẫn còn bị tê liệt bởi cuộc đình công"
+        "explain": "= paralyze",
+        "example_en": "The airport is still paralysed by the strike.",
+        "example_vi": "Sân bay vẫn còn bị tê liệt bởi cuộc đình công"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/i/discover1.jpg",
         "text_en": "discover",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "khám phá, tìm ra, phát hiện",
-        "pronoun": "/dɪˈskʌvə(r)/",
+        "pronunciation": "/dɪˈskʌvə(r)/",
         "audio": "http://audio.tflat.vn/audio/d/i/discover.mp3",
-        "ex_en": "Scientists around the world are working to discover a cure for AIDS.",
-        "ex_vi": "Các nhà khoa học trên thế giới đang làm việc để khám phá ra cách sữa AIDS"
+        "explain": "",
+        "example_en": "Scientists around the world are working to discover a cure for AIDS.",
+        "example_vi": "Các nhà khoa học trên thế giới đang làm việc để khám phá ra cách sữa AIDS"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/h/challenge1.jpg",
         "text_en": "challenge",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "thử thách",
-        "pronoun": "/ˈtʃælɪndʒ/",
+        "pronunciation": "/ˈtʃælɪndʒ/",
         "audio": "http://audio.tflat.vn/audio/c/h/challenge.mp3",
-        "ex_en": "The role will be the biggest challenge of his acting career.",
-        "ex_vi": "Vai diễn này sẽ là thử thách lớn nhất trong sự nghiệp diễn xuất của anh ấy"
+        "explain": "",
+        "example_en": "The role will be the biggest challenge of his acting career.",
+        "example_vi": "Vai diễn này sẽ là thử thách lớn nhất trong sự nghiệp diễn xuất của anh ấy"
       }
     ]
   },
@@ -359,19 +401,21 @@
     "text_en": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
     "text_vi": "Một cuộc sống hạnh phúc được tạo nên từ những thứ nhỏ bé: luôn sống với bản thân mình, theo cách mà bạn suy nghĩ.",
     "author": "Marcus Aurelius",
-    "viewer": "1,595",
+    "viewer": "1,604",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/n/e/need1.jpg",
         "text_en": "need",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "cần",
-        "pronoun": "/ni:d/",
+        "pronunciation": "/ni:d/",
         "audio": "http://audio.tflat.vn/audio/n/e/need.mp3",
-        "ex_en": "Do you need any help?",
-        "ex_vi": "Bạn có cần giúp đỡ không?"
+        "explain": "",
+        "example_en": "Do you need any help?",
+        "example_vi": "Bạn có cần giúp đỡ không?"
       }
     ]
   },
@@ -382,29 +426,33 @@
     "text_en": "The mystery of life is not a problem to be solved but a reality to be experienced.",
     "text_vi": "Bí mật của cuộc sống không phải là một vấn đề bạn phải giải quyết mà là nơi trải nghiệm thực tại.",
     "author": "Soren Kierkegaard",
-    "viewer": "1,154",
+    "viewer": "1,162",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/y/mystery1.png",
         "text_en": "mystery",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "điều huyền bí, bí ẩn",
-        "pronoun": "/ˈmɪstəri/",
+        "pronunciation": "/ˈmɪstəri/",
         "audio": "http://audio.tflat.vn/audio/m/y/mystery.mp3",
-        "ex_en": "He's a bit of a mystery.",
-        "ex_vi": "Anh ta có một chút bí ẩn"
+        "explain": "",
+        "example_en": "He's a bit of a mystery.",
+        "example_vi": "Anh ta có một chút bí ẩn"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/o/solve1.png",
         "text_en": "solve",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "giải quyết, tìm giải pháp",
-        "pronoun": "/sɔlv/",
+        "pronunciation": "/sɔlv/",
         "audio": "http://audio.tflat.vn/audio/s/o/solve.mp3",
-        "ex_en": "You can't solve anything by just running away",
-        "ex_vi": "Cậu không thể giải quyết vấn đề bằng cách bỏ chạy được"
+        "explain": "",
+        "example_en": "You can't solve anything by just running away",
+        "example_vi": "Cậu không thể giải quyết vấn đề bằng cách bỏ chạy được"
       }
     ]
   },
@@ -415,19 +463,21 @@
     "text_en": "Life isn’t about finding yourself. Life is about creating yourself.",
     "text_vi": "Cuộc sống không phải là khám phá bản thân mình. Cuộc sống là tự tạo nên bản thân mình.",
     "author": "George Bernard Shaw",
-    "viewer": "2,325",
+    "viewer": "2,338",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/r/create1.jpg",
         "text_en": "create",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "Tạo ra",
-        "pronoun": "/kriˈeɪt/",
+        "pronunciation": "/kriˈeɪt/",
         "audio": "http://audio.tflat.vn/audio/c/r/create.mp3",
-        "ex_en": "The main purpose of industry is to create wealth.",
-        "ex_vi": "Mục đích chính của nền công nghiệp là tạo ra của cải"
+        "explain": "",
+        "example_en": "The main purpose of industry is to create wealth.",
+        "example_vi": "Mục đích chính của nền công nghiệp là tạo ra của cải"
       }
     ]
   },
@@ -438,19 +488,21 @@
     "text_en": "Life is what happens to you while you’re busy making other plans.",
     "text_vi": "Cuộc sống là những thứ cứ tiếp diễn trong khi bạn đang bận bịu lên kế hoạch.",
     "author": "John Lennon",
-    "viewer": "1,764",
+    "viewer": "1,773",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/l/plan1.jpg",
         "text_en": "plan",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "kế hoạch, dự án",
-        "pronoun": "/plæn/",
+        "pronunciation": "/plæn/",
         "audio": "http://audio.tflat.vn/audio/p/l/plan.mp3",
-        "ex_en": "to make detailed arrangements for something you want to do in the future",
-        "ex_vi": "Bạn có kế hoạch nào cho mùa hè không?"
+        "explain": "to make detailed arrangements for something you want to do in the future",
+        "example_en": "Do you have any plans for the summer?",
+        "example_vi": "Bạn có kế hoạch nào cho mùa hè không?"
       }
     ]
   },
@@ -461,19 +513,21 @@
     "text_en": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a ...",
     "text_vi": "Bạn chỉ có hai cách để sống. Một là xem như không có điều gì kỳ diệu trong cuộc sống này. Một cách khác là hãy xem mọi thứ bé nhỏ điều kỳ diệu.",
     "author": "Albert Einstein",
-    "viewer": "2,240",
+    "viewer": "2,250",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/i/miracle1.jpeg",
         "text_en": "miracle",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "phép màu, điều kì diệu",
-        "pronoun": "/ˈmɪrəkəl/",
+        "pronunciation": "/ˈmɪrəkəl/",
         "audio": "http://audio.tflat.vn/audio/m/i/miracle.mp3",
-        "ex_en": "It’s a miracle (that) nobody was killed in the crash.",
-        "ex_vi": "Đúng là một phép màu, không ai bị thiệt mạng trong vụ tai nạn"
+        "explain": "",
+        "example_en": "It’s a miracle (that) nobody was killed in the crash.",
+        "example_vi": "Đúng là một phép màu, không ai bị thiệt mạng trong vụ tai nạn"
       }
     ]
   },
@@ -484,49 +538,57 @@
     "text_en": "Accept the challenges so that you can feel the exhilaration of victory.",
     "text_vi": "Chấp nhận thử thách để rồi bạn có thể cảm nhận hương vị chiến thắng.",
     "author": "George S. Patton",
-    "viewer": "989",
+    "viewer": "996",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/h/challenge1.jpg",
         "text_en": "challenge",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "thử thách",
-        "pronoun": "/ˈtʃælɪndʒ/",
+        "pronunciation": "/ˈtʃælɪndʒ/",
         "audio": "http://audio.tflat.vn/audio/c/h/challenge.mp3",
-        "ex_en": "The role will be the biggest challenge of his acting career.",
-        "ex_vi": "Vai diễn này sẽ là thử thách lớn nhất trong sự nghiệp diễn xuất của anh ấy"
+        "explain": "",
+        "example_en": "The role will be the biggest challenge of his acting career.",
+        "example_vi": "Vai diễn này sẽ là thử thách lớn nhất trong sự nghiệp diễn xuất của anh ấy"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/accept1.png",
         "text_en": "accept",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nhận, chấp nhận, thừa nhận, công nhận",
-        "pronoun": "/ək'sept/",
+        "pronunciation": "/ək'sept/",
         "audio": "http://audio.tflat.vn/audio/a/c/accept.mp3",
-        "ex_en": "to say “yes” to an offer, invitation, etc.",
-        "ex_vi": "Người tiếp tân đã nhận kiện hàng từ người đưa thư"
+        "explain": "to say “yes” to an offer, invitation, etc.",
+        "example_en": "The receptionist accepted the package from the courier",
+        "example_vi": "Người tiếp tân đã nhận kiện hàng từ người đưa thư"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/x/exhilaration1.jpg",
         "text_en": "exhilaration",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "niềm vui, niềm hồ hởi",
-        "pronoun": "/ig¸zilə´reiʃən/",
+        "pronunciation": "/ig¸zilə´reiʃən/",
         "audio": "http://audio.tflat.vn/audio/e/x/exhilaration.mp3",
-        "ex_en": "they felt the exhilaration of victory",
-        "ex_vi": "họ đã cảm nhận niềm vui của chiến thắng"
+        "explain": "",
+        "example_en": "they felt the exhilaration of victory",
+        "example_vi": "họ đã cảm nhận niềm vui của chiến thắng"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/v/i/victory1.jpg",
         "text_en": "victory",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "Chiến thắng",
-        "pronoun": "/ˈvɪktəri/",
+        "pronunciation": "/ˈvɪktəri/",
         "audio": "http://audio.tflat.vn/audio/v/i/victory.mp3",
-        "ex_en": "She is confident of victory in Saturday's final.",
-        "ex_vi": "Cô ấy tự tin chiến thắng trong trận chung kết hôm thứ bảy"
+        "explain": "",
+        "example_en": "She is confident of victory in Saturday's final.",
+        "example_vi": "Cô ấy tự tin chiến thắng trong trận chung kết hôm thứ bảy"
       }
     ]
   },
@@ -537,19 +599,21 @@
     "text_en": "The success of getting ahead is getting started.",
     "text_vi": "Sự thành công của bước tiếp theo nằm ở sự khởi đầu.",
     "author": "Mark Twain",
-    "viewer": "949",
+    "viewer": "954",
     "category": "cuoc-song",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/success1.jpg",
         "text_en": "success",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "‹sự/người› thành công, thành đạt, thắng lợi",
-        "pronoun": "/sək'ses/",
+        "pronunciation": "/sək'ses/",
         "audio": "http://audio.tflat.vn/audio/s/u/success.mp3",
-        "ex_en": "the fact that you have achieved something that you want and have been trying to do",
-        "ex_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
+        "explain": "the fact that you have achieved something that you want and have been trying to do",
+        "example_en": "The director's success came after years of hiring the right people at the right time",
+        "example_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
       }
     ]
   }

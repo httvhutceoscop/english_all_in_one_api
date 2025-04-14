@@ -6,48 +6,56 @@
     "text_en": "Don’t be content with doing only your duty. Do more than your duty. It is the horse that finishes a neck ahead wins the race.",
     "text_vi": "Đừng hài lòng với việc chỉ hoàn thành nhiệm vụ của mình. Hãy làm nhiều hơn thế. Con ngựa về đích trước hơn một cái cổ là con ngựa thắng cuộc đua.",
     "author": "Andrew Carnegie",
-    "viewer": "1,729",
+    "viewer": "1,736",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/content1.jpg",
         "text_en": "content",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "bằng lòng, hài lòng",
         "pronunciation": "/kən'tent/",
         "audio": "http://audio.tflat.vn/audio/c/o/content.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He had to be content with third place.",
         "example_vi": "Ông ấy phải bằng lòng với vị trí thứ 3"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/u/duty1.jpg",
         "text_en": "duty",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "bổn phận, nhiệm vụ",
         "pronunciation": "/'dju:ti/",
         "audio": "http://audio.tflat.vn/audio/d/u/duty.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "It is my duty to report it to the police.",
         "example_vi": "Nhiệm vụ của tôi là báo cáo nó với cảnh sát"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/o/horse1.png",
         "text_en": "horse",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "ngựa",
         "pronunciation": "/hɔrs/",
         "audio": "http://audio.tflat.vn/audio/h/o/horse.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He mounted his horse and rode off.",
         "example_vi": "Ông ấy lên con ngựa và cởi đi"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/n/e/neck1.png",
         "text_en": "neck",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "cổ",
         "pronunciation": "/ /nek//",
         "audio": "http://audio.tflat.vn/audio/n/e/neck.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I woke up with a stiff neck.",
         "example_vi": "Tôi thức dậy với cái cổ cứng đơ"
       }
     ]
@@ -59,28 +67,32 @@
     "text_en": "People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on ...",
     "text_vi": "Người ta thường than trách hoàn cảnh của họ đã khiến họ nên nông nỗi này. Tôi không tin vào hoàn cảnh. Những người thành công trên thế giới này là những người bước lên và tìm ra hoàn cảnh mà họ muốn, và nếu tìm không thấy thì họ sẽ tạo ra hoàn cảnh đó.",
     "author": "G.B. Shaw",
-    "viewer": "1,284",
+    "viewer": "1,291",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/i/circumstance2.png",
         "text_en": "circumstance",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "trường hợp, hoàn cảnh, tình huống",
         "pronunciation": "/'sə:kəmstəns/",
         "audio": "http://audio.tflat.vn/audio/c/i/circumstance.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the conditions and facts that are connected with and affect a situation, an event, or an action",
+        "example_en": "Under the current economic circumstances, they will not be able to purchase the property",
         "example_vi": "Trong tình cảnh kinh tế hiện tại, họ không có khả năng mua sắm tài sản"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/l/blame1.jpg",
         "text_en": "blame",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "than trách, đổ lỗi",
         "pronunciation": "/ /bleɪm/ /",
         "audio": "http://audio.tflat.vn/audio/b/l/blame.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She doesn't blame anyone for her father's death.",
         "example_vi": "Cô ấy không đổ lỗi cho bất kì ai về cái chết của bố cô ấy"
       }
     ]
@@ -92,38 +104,44 @@
     "text_en": "Failure is just a resting place. It is an opportunity to begin again more intelligently",
     "text_vi": "Thất bại chỉ là một nơi nghỉ ngơi. Nó là một cơ hội để bắt đầu lại một cách thông minh hơn.",
     "author": "Moshe Arens",
-    "viewer": "1,056",
+    "viewer": "1,063",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/failure1.png",
         "text_en": "failure",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hỏng, thiếu, yếu, trượt, thất bại, bất thành",
         "pronunciation": "/'feiljə/",
         "audio": "http://audio.tflat.vn/audio/f/a/failure.mp3",
-        "example_en": "Giải thích:",
+        "explain": "lack of success in doing or achieving something",
+        "example_en": "The success or failure of the plan depends on you.",
         "example_vi": "Kế hoạch thành công hay thất bại là phụ thuộc vào bạn"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/rest1.png",
         "text_en": "rest",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự nghỉ ngơi",
         "pronunciation": "/rest /",
         "audio": "http://audio.tflat.vn/audio/r/e/rest.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Try to get some rest. You have a busy day tomorrow.",
         "example_vi": "Cố gắng nghỉ ngơi đi, ngày mai bạn sẽ có một ngày bận rộn đấy"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/intelligently1.png",
         "text_en": "Intelligently",
-        "word_type": "(adv):",
+        "word_type": "(adv)",
         "text_vi": "một cách thông tim",
         "pronunciation": "/ɪnˈtelɪdʒəntli/",
         "audio": "http://audio.tflat.vn/audio/i/n/intelligently.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "intelligently designed products",
         "example_vi": "sản phẩm thiết kế thông minh"
       }
     ]
@@ -135,28 +153,32 @@
     "text_en": "The winner says, “It may be difficult but it is possible”. ...",
     "text_vi": "Người chiến thắng nói: ”Việc đó khó nhưng có thể làm được”.\nKẻ chiến bại nói: ”Việc đó có thể làm được nhưng quá khó”.",
     "author": "Khuyết danh",
-    "viewer": "1,985",
+    "viewer": "1,992",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/o/possible1.jpg",
         "text_en": "possible",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "có thể",
         "pronunciation": "/ˈpɒsɪb(ə)l/",
         "audio": "http://audio.tflat.vn/audio/p/o/possible.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Contact me as soon as possible.",
         "example_vi": "Liên lạc với tôi sớm nhất có thể."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/i/difficult1.jpg",
         "text_en": "difficult",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "khó",
         "pronunciation": "/ˈdɪfɪkəlt/",
         "audio": "http://audio.tflat.vn/audio/d/i/difficult.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "It's really difficult to read your writing.",
         "example_vi": "Thật sự khó để đọc bài viết của bạn"
       }
     ]
@@ -168,78 +190,92 @@
     "text_en": "No–one gets an iron–clad guarantee of success. Certainly, factors like opportunity, luck and timing are important. But ...",
     "text_vi": "Không ai có được bảo đảm chắc chắn thành công. Chắc chắn những yếu tố như cơ hội, sự may mắn và thời điểm là quan trọng. Nhưng xương sống của thành công thường được tìm thấy trong các khái niệm cơ bản, cổ hủ như làm việc chăm chỉ, quyết tâm, lên kế hoạch...",
     "author": "Mia Hamm",
-    "viewer": "959",
+    "viewer": "964",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/u/guarantee1.jpg",
         "text_en": "guarantee",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự bảo đảm, bảo hành",
         "pronunciation": "/ˌgærənˈtiː/",
         "audio": "http://audio.tflat.vn/audio/g/u/guarantee.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He gave me a guarantee that it would never happen again.",
         "example_vi": "Anh ấy cho tôi một sự đảm bảo rằng nó sẽ không xãy ra lần nữa"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/success1.jpg",
         "text_en": "success",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "‹sự/người› thành công, thành đạt, thắng lợi",
         "pronunciation": "/sək'ses/",
         "audio": "http://audio.tflat.vn/audio/s/u/success.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the fact that you have achieved something that you want and have been trying to do",
+        "example_en": "The director's success came after years of hiring the right people at the right time",
         "example_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/factor1.png",
         "text_en": "factor",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "nhân tố, yếu tố",
         "pronunciation": "/'fæktə/",
         "audio": "http://audio.tflat.vn/audio/f/a/factor.mp3",
-        "example_en": "Giải thích:",
+        "explain": "one of several things that cause or influence something",
+        "example_en": "The result will depend on a number of different factors",
         "example_vi": "Kết quả sẽ phụ thuộc vào một số lượng những nhân tố khác nhau"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/p/opportunity1.jpg",
         "text_en": "opportunity",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "cơ hội, thời cơ",
         "pronunciation": "/ˌɒpərˈtyunɪti/",
         "audio": "http://audio.tflat.vn/audio/o/p/opportunity.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "This is the perfect opportunity to make a new start.",
         "example_vi": "Đây là một cơ hội hoàn hảo để làm nên một sự bắt đầu mới"
       },
       {
+        "id": 5,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/a/backbone1.jpg",
         "text_en": "backbone",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "xương sống",
         "pronunciation": "/'bækboun/",
         "audio": "http://audio.tflat.vn/audio/b/a/backbone.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Farming is the backbone of the country's economy.",
         "example_vi": "Nông nghiệp là xương sống của nền kinh tế quốc gia"
       },
       {
+        "id": 6,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/determination1.jpg",
         "text_en": "determination",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự quyết tâm",
         "pronunciation": "/di,tə:mi'neiʃn/",
         "audio": "http://audio.tflat.vn/audio/d/e/determination.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I admire her determination to get it right.",
         "example_vi": "Tôi ngưỡng mộ sự quyết tâm của cô ấy để có được nó"
       },
       {
+        "id": 7,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/e/perseverance1.jpg",
         "text_en": "perseverance",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tính kiên nhẫn, tính kiên trì",
         "pronunciation": "/¸pə:si´viərəns/",
         "audio": "http://audio.tflat.vn/audio/p/e/perseverance.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "They showed great perseverance in the face of difficulty.",
         "example_vi": "Họ đã cho thấy được tính kiên trì rất lớn khi đối mặt với khó khăn"
       }
     ]
@@ -251,18 +287,20 @@
     "text_en": "The winner says, “Let me do it for you”.\nThe loser says, “That is not my job”.",
     "text_vi": "Người thắng cuộc nói: “Để tôi làm việc đó cho bạn”. Kẻ thua cuộc nói: “Đó không phải là việc của tôi”.",
     "author": "Khuyết danh",
-    "viewer": "1,640",
+    "viewer": "1,651",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/o/loser1.jpg",
         "text_en": "loser",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "người thua cuộc",
         "pronunciation": "/'lu:zər/",
         "audio": "http://audio.tflat.vn/audio/l/o/loser.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "The real losers in all of this are the students.",
         "example_vi": "Những người thua cuộc thật sự trong những điều này là học sinh"
       }
     ]
@@ -274,18 +312,20 @@
     "text_en": "Diligence is the mother of good luck.",
     "text_vi": "Chăm chỉ là mẹ của may mắn.",
     "author": "Benjamin Franklin",
-    "viewer": "1,214",
+    "viewer": "1,225",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn//tienganhtflat.com/app/media/img/no-image.jpg",
         "text_en": "diligence",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự siêng năng, cần cù",
         "pronunciation": "/´dilidʒəns/",
         "audio": "http://audio.tflat.vn/audio/d/i/diligence.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She shows great diligence in her schoolwork.",
         "example_vi": "Cô ấy cho thấy sự cần cù rất nhiều của cô ấy trong việc học ở trường"
       }
     ]
@@ -297,17 +337,19 @@
     "text_en": "Success is the ability to go from one failure to another with no lose of enthusiasm.",
     "text_vi": "Thành công nằm ở khả năng đi từ thất bại này đến thất bại khác mà không mất đi nhiệt huyết.",
     "author": "Winston Churchill",
-    "viewer": "1,198",
+    "viewer": "1,205",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/n/enthusiasm1.png",
         "text_en": "enthusiasm",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "lòng nhiệt tình",
         "pronunciation": "/ɛnˈθuziˌæzəm/",
         "audio": "http://audio.tflat.vn/audio/e/n/enthusiasm.mp3",
+        "explain": "",
         "example_en": "",
         "example_vi": ""
       }
@@ -320,17 +362,19 @@
     "text_en": "Whenever someone creates something with all of their heart, then that creation is given a soul.",
     "text_vi": "Khi một người tạo một vật thể với tất cả tấm lòng của mình, thì bản thân vật thể đó đã được thổi hồn vậy.",
     "author": "The Cat Returns Movie",
-    "viewer": "1,566",
+    "viewer": "1,574",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/r/creation1.jpg",
         "text_en": "creation",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "sự tạo dựng",
         "pronunciation": "/kriˈeɪʃən/",
         "audio": "http://audio.tflat.vn/audio/c/r/creation.mp3",
+        "explain": "",
         "example_en": "",
         "example_vi": ""
       }
@@ -343,17 +387,19 @@
     "text_en": "We must all face the choice between what is right and what is easy.",
     "text_vi": "Tất cả chúng ta đều phải đối mặt với sự lựa chọn giữa việc đúng đắn và việc dễ dàng.",
     "author": "Albus Dumbledore, Harry Potter Movie",
-    "viewer": "1,945",
+    "viewer": "1,952",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/h/choice1.png",
         "text_en": "choice",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "sự lựa chọn",
         "pronunciation": "/tʃɔis/",
         "audio": "http://audio.tflat.vn/audio/c/h/choice.mp3",
+        "explain": "",
         "example_en": "",
         "example_vi": ""
       }
@@ -366,18 +412,20 @@
     "text_en": "One finds limits by pushing them.",
     "text_vi": "Ta vượt qua giới hạn bằng cách đẩy xa chúng.",
     "author": "Herbert Simon",
-    "viewer": "1,400",
+    "viewer": "1,405",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/i/limit1.png",
         "text_en": "limit",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "giới hạn, hết hạn dùng",
         "pronunciation": "/'limit/",
         "audio": "http://audio.tflat.vn/audio/l/i/limit.mp3",
-        "example_en": "Giải thích:",
+        "explain": "a point at which something stops being possible or existing",
+        "example_en": "We were reaching the limits of civilization.",
         "example_vi": "Chúng tôi đã đạt đến giới hạn của nền văn minh."
       }
     ]
@@ -389,18 +437,20 @@
     "text_en": "I have learned more from my mistakes than from my success.",
     "text_vi": "Tôi đã học được nhiều điều từ thất bại của bản thân hơn là từ thành công của mình.",
     "author": "Humphry Davy",
-    "viewer": "2,139",
+    "viewer": "2,147",
     "category": "cong-viec",
     "page": 2,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/success1.jpg",
         "text_en": "success",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "‹sự/người› thành công, thành đạt, thắng lợi",
         "pronunciation": "/sək'ses/",
         "audio": "http://audio.tflat.vn/audio/s/u/success.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the fact that you have achieved something that you want and have been trying to do",
+        "example_en": "The director's success came after years of hiring the right people at the right time",
         "example_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
       }
     ]

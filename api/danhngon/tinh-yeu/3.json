@@ -6,49 +6,57 @@
     "text_en": "Life has taught us that love does not consist in gazing at each other but in looking outward together in the same direction.",
     "text_vi": "Cuộc đời dạy chúng ta rằng tình yêu không phải là nhìn lẫn nhau mà là nhìn về chung một hướng.",
     "author": "Antoine De Saint-Exupery",
-    "viewer": "2,145",
+    "viewer": "2,154",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/i/direction1.png",
         "text_en": "direction",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "phương hướng, sự hướng dẫn, chỉ dẫn",
-        "pronoun": "/dɪˈrekʃn/",
+        "pronunciation": "/dɪˈrekʃn/",
         "audio": "http://audio.tflat.vn/audio/d/i/direction.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/e/teach1.jpg",
         "text_en": "teach",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "dạy, dạy học",
-        "pronoun": "/ti:tʃ/",
+        "pronunciation": "/ti:tʃ/",
         "audio": "http://audio.tflat.vn/audio/t/e/teach.mp3",
-        "ex_en": "teach - taught - taught",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "teach - taught - taught",
+        "example_vi": ""
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/a/gaze1.jpg",
         "text_en": "gaze",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "ngắm nhìn, cái nhìn chằm chằm",
-        "pronoun": "/geiz/",
+        "pronunciation": "/geiz/",
         "audio": "http://audio.tflat.vn/audio/g/a/gaze.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/u/outward1.jpg",
         "text_en": "Outward",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "bên ngoài, vẻ bên ngoài",
-        "pronoun": "/ˈaʊtwərd/",
+        "pronunciation": "/ˈaʊtwərd/",
         "audio": "http://audio.tflat.vn/audio/o/u/outward.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       }
     ]
   },
@@ -59,39 +67,45 @@
     "text_en": "Love is an act of endless forgiveness a tender look which becomes a habit.",
     "text_vi": "Tình yêu là một hành động vị tha vô bờ bến và là nét dịu dàng đã trở nên thân thuộc..",
     "author": "Peter Ustinov",
-    "viewer": "1,759",
+    "viewer": "1,767",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/habit1.png",
         "text_en": "habit",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "thói quen",
-        "pronoun": "/ˈhæbɪt/",
+        "pronunciation": "/ˈhæbɪt/",
         "audio": "http://audio.tflat.vn/audio/h/a/habit.mp3",
-        "ex_en": "a thing that you do often and almost without thinking",
-        "ex_vi": "Bệnh nhân có một thói quen nghiến răng ken két trong khi ngủ"
+        "explain": "a thing that you do often and almost without thinking",
+        "example_en": "The patient had a habit of grinding his teeth during his sleep",
+        "example_vi": "Bệnh nhân có một thói quen nghiến răng ken két trong khi ngủ"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/n/endless1.jpg",
         "text_en": "endless",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "vô tận, vô bờ bến",
-        "pronoun": "/ˈɛndlɪs/",
+        "pronunciation": "/ˈɛndlɪs/",
         "audio": "http://audio.tflat.vn/audio/e/n/endless.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/o/forgiveness1.jpg",
         "text_en": "forgiveness",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự tha thứ, lòng khoan dung",
-        "pronoun": "/fə´givnis/",
+        "pronunciation": "/fə´givnis/",
         "audio": "http://audio.tflat.vn/audio/f/o/forgiveness.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       }
     ]
   },
@@ -102,19 +116,21 @@
     "text_en": "You can't be wise and in love at the same time.",
     "text_vi": "Ta không thể sáng suốt khi đang yêu.",
     "author": "Bob Dylan",
-    "viewer": "1,105",
+    "viewer": "1,111",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/i/wise1.jpg",
         "text_en": "wise",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "khôn ngoan, sáng suốt",
-        "pronoun": "/waiz/",
+        "pronunciation": "/waiz/",
         "audio": "http://audio.tflat.vn/audio/w/i/wise.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       }
     ]
   },
@@ -125,29 +141,33 @@
     "text_en": "Love is not getting, but giving.",
     "text_vi": "Tình yêu không phải là điều ta nhận đuợc mà là những gì ta cho đi.",
     "author": "Henry Van Dyke",
-    "viewer": "2,981",
+    "viewer": "2,991",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/e/get1.jpg",
         "text_en": "get",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "có được, nhận được",
-        "pronoun": "/get/",
+        "pronunciation": "/get/",
         "audio": "http://audio.tflat.vn/audio/g/e/get.mp3",
-        "ex_en": "I got a gift from Dave this morning",
-        "ex_vi": "Tôi nhận một món quà từ Dave sáng nay"
+        "explain": "",
+        "example_en": "I got a gift from Dave this morning",
+        "example_vi": "Tôi nhận một món quà từ Dave sáng nay"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/i/give1.jpg",
         "text_en": "give",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "cho, tặng, đưa",
-        "pronoun": "/ɡɪv/",
+        "pronunciation": "/ɡɪv/",
         "audio": "http://audio.tflat.vn/audio/g/i/give.mp3",
-        "ex_en": "Give your mother the letter.",
-        "ex_vi": "Đưa cho mẹ bạn lá thư"
+        "explain": "",
+        "example_en": "Give your mother the letter.",
+        "example_vi": "Đưa cho mẹ bạn lá thư"
       }
     ]
   },
@@ -158,19 +178,21 @@
     "text_en": "I love you like my life,do you know why? Because you are my life. . .",
     "text_vi": "Anh yêu em như yêu cuộc sống của chính mình, em bíêt tại sao ko? Vì em chính là cuộc sống của anh.",
     "author": "Khuyết danh",
-    "viewer": "2,386",
+    "viewer": "2,395",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/i/life1.jpg",
         "text_en": "life",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "cuộc sống",
-        "pronoun": "/laif/",
+        "pronunciation": "/laif/",
         "audio": "http://audio.tflat.vn/audio/l/i/life.mp3",
-        "ex_en": "",
-        "ex_vi": ""
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       }
     ]
   },
@@ -181,19 +203,21 @@
     "text_en": "To love is to act.",
     "text_vi": "Yêu là phải thể hiện.",
     "author": "Victor Hugo",
-    "viewer": "1,297",
+    "viewer": "1,305",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/act1.jpg",
         "text_en": "act",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "hành động",
-        "pronoun": "/ækt/",
+        "pronunciation": "/ækt/",
         "audio": "http://audio.tflat.vn/audio/a/c/act.mp3",
-        "ex_en": "The murder was the act of a psychopath.",
-        "ex_vi": "Các vụ giết người là hành động của kẻ tâm thần"
+        "explain": "",
+        "example_en": "The murder was the act of a psychopath.",
+        "example_vi": "Các vụ giết người là hành động của kẻ tâm thần"
       }
     ]
   },
@@ -204,29 +228,33 @@
     "text_en": "How come we don't always know when love begins, but we always know when it ends ?",
     "text_vi": "Tại sao chúng ta không bao giờ nhận ra tình yêu bắt đầu từ khi nào nhưng chúng ta luôn biết khi tình yêu kết thúc?",
     "author": "Steve Martin",
-    "viewer": "1,652",
+    "viewer": "1,664",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/begin1.jpg",
         "text_en": "begin",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "bắt đầu",
-        "pronoun": "/bi'gin/",
+        "pronunciation": "/bi'gin/",
         "audio": "http://audio.tflat.vn/audio/b/e/begin.mp3",
-        "ex_en": "Let's begin at page 9.",
-        "ex_vi": "Hãy bắt đầu từ trang 9"
+        "explain": "",
+        "example_en": "Let's begin at page 9.",
+        "example_vi": "Hãy bắt đầu từ trang 9"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/n/end1.jpg",
         "text_en": "end",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự kết thúc",
-        "pronoun": "/end/",
+        "pronunciation": "/end/",
         "audio": "http://audio.tflat.vn/audio/e/n/end.mp3",
-        "ex_en": "We had to hear about the whole journey from beginning to end.",
-        "ex_vi": ""
+        "explain": "We had to hear about the whole journey from beginning to end.",
+        "example_en": "Chúng ta đã nghe về cả chuyến đi từ lúc bắt đầu đến lúc kết thúc",
+        "example_vi": ""
       }
     ]
   },
@@ -237,49 +265,57 @@
     "text_en": "Life in common among people who love each other is the ideal of happiness.",
     "text_vi": "Cuộc sống đồng điệu giữa những người yêu nhau là hạnh phúc lý tưởng.",
     "author": "George Sand",
-    "viewer": "908",
+    "viewer": "914",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/common1.jpg",
         "text_en": "common",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự chung, của chung",
-        "pronoun": "/ /'kɑ:mən//",
+        "pronunciation": "/ /'kɑ:mən//",
         "audio": "http://audio.tflat.vn/audio/c/o/common.mp3",
-        "ex_en": "We are working together for a common purpose.",
-        "ex_vi": "Chúng tôi đang làm việc với nhau cho cùng chung một mục đích"
+        "explain": "",
+        "example_en": "We are working together for a common purpose.",
+        "example_vi": "Chúng tôi đang làm việc với nhau cho cùng chung một mục đích"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/m/among1.jpg",
         "text_en": "among",
-        "word_type": "(prep.):",
+        "word_type": "(prep.)",
         "text_vi": "giữa, trong số (giữa từ ba người, 3 vật trở lên)",
-        "pronoun": "/ə'mʌŋ/",
+        "pronunciation": "/ə'mʌŋ/",
         "audio": "http://audio.tflat.vn/audio/a/m/among.mp3",
-        "ex_en": "Which is your book among these books?",
-        "ex_vi": "Đâu là cuốn sách của bạn trong số những cuốn sách này?"
+        "explain": "",
+        "example_en": "Which is your book among these books?",
+        "example_vi": "Đâu là cuốn sách của bạn trong số những cuốn sách này?"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happiness1.jpg",
         "text_en": "happiness",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hạnh phúc",
-        "pronoun": "/'hæpinis/",
+        "pronunciation": "/'hæpinis/",
         "audio": "http://audio.tflat.vn/audio/h/a/happiness.mp3",
-        "ex_en": "She struggled to find happiness in her life",
-        "ex_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
+        "explain": "",
+        "example_en": "She struggled to find happiness in her life",
+        "example_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/d/ideal1.jpg",
         "text_en": "ideal",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "lý tưởng",
-        "pronoun": "/aɪˈdil/",
+        "pronunciation": "/aɪˈdil/",
         "audio": "http://audio.tflat.vn/audio/i/d/ideal.mp3",
-        "ex_en": "This house is ideal for us.",
-        "ex_vi": "Ngôi nhà này lý tưởng cho chúng ta"
+        "explain": "",
+        "example_en": "This house is ideal for us.",
+        "example_vi": "Ngôi nhà này lý tưởng cho chúng ta"
       }
     ]
   },
@@ -290,39 +326,45 @@
     "text_en": "I looked at your face… my heart jumped all over the place.",
     "text_vi": "Khi nhìn em, anh cảm giác tim anh như loạn nhịp.",
     "author": "Khuyết danh",
-    "viewer": "2,411",
+    "viewer": "2,419",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/j/u/jump1.png",
         "text_en": "jump",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nhảy, cú nhảy",
-        "pronoun": "/ʤʌmp/",
+        "pronunciation": "/ʤʌmp/",
         "audio": "http://audio.tflat.vn/audio/j/u/jump.mp3",
-        "ex_en": "She jumped down from the chair.",
-        "ex_vi": "Cô ấy đã nhảy xuống từ chiến ghế"
+        "explain": "",
+        "example_en": "She jumped down from the chair.",
+        "example_vi": "Cô ấy đã nhảy xuống từ chiến ghế"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/e/heart1.png",
         "text_en": "heart",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tim",
-        "pronoun": "/hɑːrt/",
+        "pronunciation": "/hɑːrt/",
         "audio": "http://audio.tflat.vn/audio/h/e/heart.mp3",
-        "ex_en": "She has a kind heart.",
-        "ex_vi": "Cô ấy có một trái tim nhân hậu"
+        "explain": "",
+        "example_en": "She has a kind heart.",
+        "example_vi": "Cô ấy có một trái tim nhân hậu"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/face1.png",
         "text_en": "face",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "khuôn mặt",
-        "pronoun": "/feɪs/",
+        "pronunciation": "/feɪs/",
         "audio": "http://audio.tflat.vn/audio/f/a/face.mp3",
-        "ex_en": "The expression on his face never changed.",
-        "ex_vi": "Những biểu hiện trên mặt của anh ta không bao giờ thay đổi"
+        "explain": "",
+        "example_en": "The expression on his face never changed.",
+        "example_vi": "Những biểu hiện trên mặt của anh ta không bao giờ thay đổi"
       }
     ]
   },
@@ -333,39 +375,45 @@
     "text_en": "Love happens whether you want it to or not. Don’t try to control it!",
     "text_vi": "Tình yêu đến dù bạn muốn hay không. Đừng cố điều khiển nó!",
     "author": "Khuyết danh",
-    "viewer": "1,031",
+    "viewer": "1,038",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/control1.png",
         "text_en": "control",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "điều khiển, kiểm soát",
-        "pronoun": "/kən'troul/",
+        "pronunciation": "/kən'troul/",
         "audio": "http://audio.tflat.vn/audio/c/o/control.mp3",
-        "ex_en": "the ability to make someone or something do what you want",
-        "ex_vi": "Bạn có thể kiểm soát những đứa con của bạn không?"
+        "explain": "the ability to make someone or something do what you want",
+        "example_en": "Can't you control your children?",
+        "example_vi": "Bạn có thể kiểm soát những đứa con của bạn không?"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happen1.jpg",
         "text_en": "happen",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "Xảy ra",
-        "pronoun": "/'hæpən/",
+        "pronunciation": "/'hæpən/",
         "audio": "http://audio.tflat.vn/audio/h/a/happen.mp3",
-        "ex_en": "You'll never guess what's happened!",
-        "ex_vi": "Em sẽ không bao giờ đoán được chuyện gì đã xảy ra đâu"
+        "explain": "",
+        "example_en": "You'll never guess what's happened!",
+        "example_vi": "Em sẽ không bao giờ đoán được chuyện gì đã xảy ra đâu"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/h/whether1.jpg",
         "text_en": "whether",
-        "word_type": "(conjunction):",
+        "word_type": "(conjunction)",
         "text_vi": "liệu có ... không",
-        "pronoun": "/ /ˈweðər//",
+        "pronunciation": "/ /ˈweðər//",
         "audio": "http://audio.tflat.vn/audio/w/h/whether.mp3",
-        "ex_en": "I'll see whether she's at home",
-        "ex_vi": "Tôi sẽ xem liệu cô ấy có ở nhà hay không"
+        "explain": "",
+        "example_en": "I'll see whether she's at home",
+        "example_vi": "Tôi sẽ xem liệu cô ấy có ở nhà hay không"
       }
     ]
   },
@@ -376,39 +424,45 @@
     "text_en": "I’d give up my life if I could command one smile of your eyes, one touch of your hand.",
     "text_vi": "Anh sẽ cho em tất cả cuộc đời này để đổi lại được nhìn em cười, được nắm tay em.",
     "author": "Khuyết danh",
-    "viewer": "2,651",
+    "viewer": "2,660",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/command1.png",
         "text_en": "command",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "ra lệnh",
-        "pronoun": "/kə'mɑ:nd/",
+        "pronunciation": "/kə'mɑ:nd/",
         "audio": "http://audio.tflat.vn/audio/c/o/command.mp3",
-        "ex_en": "She commanded the release of the prisoners.",
-        "ex_vi": "Cô ấy đã ra lệnh giải phóng các tù nhân"
+        "explain": "",
+        "example_en": "She commanded the release of the prisoners.",
+        "example_vi": "Cô ấy đã ra lệnh giải phóng các tù nhân"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/i/give_up.jpg",
         "text_en": "give up",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "bỏ, từ bỏ, thôi; tạm dừng; đầu hàng",
-        "pronoun": "",
+        "pronunciation": "",
         "audio": "http://audio.tflat.vn/audio/g/i/give_up.mp3",
-        "ex_en": "to quit, to stop",
-        "ex_vi": "Cô Gomez lạc quan đến nỗi chưa bao giờ bỏ cuộc"
+        "explain": "to quit, to stop",
+        "example_en": "Ms. Gomez is so optimistic that she never gives up",
+        "example_vi": "Cô Gomez lạc quan đến nỗi chưa bao giờ bỏ cuộc"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/o/touch1.jpg",
         "text_en": "touch",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đụng, chạm",
-        "pronoun": "/tʌtʃ/",
+        "pronunciation": "/tʌtʃ/",
         "audio": "http://audio.tflat.vn/audio/t/o/touch.mp3",
-        "ex_en": "I touched him lightly on the arm.",
-        "ex_vi": "Tôi chạm nhẹ vào cánh tay của anh ấy"
+        "explain": "",
+        "example_en": "I touched him lightly on the arm.",
+        "example_vi": "Tôi chạm nhẹ vào cánh tay của anh ấy"
       }
     ]
   },
@@ -419,29 +473,33 @@
     "text_en": "Don’t stop giving love even if you don’t receive it. Smile and have patience.",
     "text_vi": "Đừng từ bỏ tình yêu cho dù bạn không nhận được nó. Hãy mỉm cười và kiên nhẫn.",
     "author": "Khuyết danh",
-    "viewer": "2,240",
+    "viewer": "2,249",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/receive1.png",
         "text_en": "receive",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nhận",
-        "pronoun": "/rɪˈsiːv/",
+        "pronunciation": "/rɪˈsiːv/",
         "audio": "http://audio.tflat.vn/audio/r/e/receive.mp3",
-        "ex_en": "She received her prize from the manager",
-        "ex_vi": "Cô ấy đã nhận giải thưởng của cô ấy từ người quản lý"
+        "explain": "",
+        "example_en": "She received her prize from the manager",
+        "example_vi": "Cô ấy đã nhận giải thưởng của cô ấy từ người quản lý"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/a/patience1.jpg",
         "text_en": "patience",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tính kiên nhẫn, tính nhẫn nại",
-        "pronoun": "/´peiʃəns/",
+        "pronunciation": "/´peiʃəns/",
         "audio": "http://audio.tflat.vn/audio/p/a/patience.mp3",
-        "ex_en": "she has no patience with those who are always grumbling",
-        "ex_vi": "cô ta không thể kiên nhẫn được với những người lúc nào cũng cằn nhằn"
+        "explain": "",
+        "example_en": "she has no patience with those who are always grumbling",
+        "example_vi": "cô ta không thể kiên nhẫn được với những người lúc nào cũng cằn nhằn"
       }
     ]
   },
@@ -452,19 +510,21 @@
     "text_en": "How can you love another if you don’t love yourself?",
     "text_vi": "Làm sao có thể yêu người khác. Nếu bạn không yêu chính mình.",
     "author": "Khuyết danh",
-    "viewer": "5,437",
+    "viewer": "5,449",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/y/o/yourself1.jpg",
         "text_en": "yourself",
-        "word_type": "(pronoun):",
+        "word_type": "(pronoun)",
         "text_vi": "chính bạn",
-        "pronoun": "/jɔːrˈself/",
+        "pronunciation": "/jɔːrˈself/",
         "audio": "http://audio.tflat.vn/audio/y/o/yourself.mp3",
-        "ex_en": "you're going to have to do it yourself",
-        "ex_vi": "Bạn phải tự chính mình làm nó"
+        "explain": "",
+        "example_en": "you're going to have to do it yourself",
+        "example_vi": "Bạn phải tự chính mình làm nó"
       }
     ]
   },
@@ -475,19 +535,21 @@
     "text_en": "To get a woman’s heart, a man must first use his own.",
     "text_vi": "Để chiếm được trái tim người phụ nữ, người đàn ông đầu tiên phải dùng trái tim của mình.",
     "author": "Khuyết danh",
-    "viewer": "946",
+    "viewer": "951",
     "category": "tinh-yeu",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/e/heart1.png",
         "text_en": "heart",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tim",
-        "pronoun": "/hɑːrt/",
+        "pronunciation": "/hɑːrt/",
         "audio": "http://audio.tflat.vn/audio/h/e/heart.mp3",
-        "ex_en": "She has a kind heart.",
-        "ex_vi": "Cô ấy có một trái tim nhân hậu"
+        "explain": "",
+        "example_en": "She has a kind heart.",
+        "example_vi": "Cô ấy có một trái tim nhân hậu"
       }
     ]
   }

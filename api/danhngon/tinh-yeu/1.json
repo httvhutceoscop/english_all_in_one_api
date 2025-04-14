@@ -6,29 +6,33 @@
     "text_en": "A great lover is not one who loves many, but one who loves one woman for life.",
     "text_vi": "Tình yêu tuyệt vời không phải yêu nhiều người mà là yêu một người suốt đời.",
     "author": "Khuyết danh",
-    "viewer": "4,470",
+    "viewer": "4,486",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/r/great1.png",
         "text_en": "great",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "tuyệt vời",
-        "pronoun": "/greɪt/",
+        "pronunciation": "/greɪt/",
         "audio": "http://audio.tflat.vn/audio/g/r/great.mp3",
-        "ex_en": "She's really great.",
-        "ex_vi": "Cô ấy thực sự tuyệt vời."
+        "explain": "",
+        "example_en": "She's really great.",
+        "example_vi": "Cô ấy thực sự tuyệt vời."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/o/lover1.jpg",
         "text_en": "lover",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "người yêu",
-        "pronoun": "/´lʌvə/",
+        "pronunciation": "/´lʌvə/",
         "audio": "http://audio.tflat.vn/audio/l/o/lover.mp3",
-        "ex_en": "We were lovers for several years",
-        "ex_vi": "Chúng tôi là người yêu trong nhiều năm"
+        "explain": "",
+        "example_en": "We were lovers for several years",
+        "example_vi": "Chúng tôi là người yêu trong nhiều năm"
       }
     ]
   },
@@ -39,39 +43,45 @@
     "text_en": "Deep as first love, and wild with all regret.",
     "text_vi": "Sâu đậm như mối tình đầu, và hoang dại với bao tiếc nuối.",
     "author": "Alfred Lord Tennyson",
-    "viewer": "3,182",
+    "viewer": "3,196",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/i/wild1.jpg",
         "text_en": "wild",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "dại; hoang dã",
-        "pronoun": "/waɪld/",
+        "pronunciation": "/waɪld/",
         "audio": "http://audio.tflat.vn/audio/w/i/wild.mp3",
-        "ex_en": "The plants grow wild along the banks of rivers",
-        "ex_vi": "Những cây dại mọc hoang dọc theo bờ sông"
+        "explain": "",
+        "example_en": "The plants grow wild along the banks of rivers",
+        "example_vi": "Những cây dại mọc hoang dọc theo bờ sông"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/deep1.jpg",
         "text_en": "deep",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "sâu",
-        "pronoun": "/di:p/",
+        "pronunciation": "/di:p/",
         "audio": "http://audio.tflat.vn/audio/d/e/deep.mp3",
-        "ex_en": "the lake was deep and cold",
-        "ex_vi": "cái hồ thì sâu và lạnh"
+        "explain": "",
+        "example_en": "the lake was deep and cold",
+        "example_vi": "cái hồ thì sâu và lạnh"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/regret1.jpg",
         "text_en": "regret",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "sự hối tiếc",
-        "pronoun": "/ri'gret/",
+        "pronunciation": "/ri'gret/",
         "audio": "http://audio.tflat.vn/audio/r/e/regret.mp3",
-        "ex_en": "She expressed her regret at the decision.",
-        "ex_vi": "Cô ấy bày tỏ sự hối tiếc của mình với quyết định."
+        "explain": "",
+        "example_en": "She expressed her regret at the decision.",
+        "example_vi": "Cô ấy bày tỏ sự hối tiếc của mình với quyết định."
       }
     ]
   },
@@ -82,39 +92,45 @@
     "text_en": "It only takes a second to say I love you, but it will take a lifetime to show you how much.",
     "text_vi": "Anh chỉ mất 1 giây để nói anh yêu em nhưng phải mất cả cuộc đời để chứng tỏ điều đó.",
     "author": "Khuyết danh",
-    "viewer": "3,784",
+    "viewer": "3,795",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/e/second2.png",
         "text_en": "second",
-        "word_type": "(ordinal no.):",
+        "word_type": "(ordinal no.)",
         "text_vi": "thứ hai, thứ nhì",
-        "pronoun": "/ˈsekənd /",
+        "pronunciation": "/ˈsekənd /",
         "audio": "http://audio.tflat.vn/audio/s/e/second-l6.mp3",
-        "ex_en": "My birthday is on the second of June.",
-        "ex_vi": "Sinh nhật tôi vào ngày hai tháng sáu."
+        "explain": "",
+        "example_en": "My birthday is on the second of June.",
+        "example_vi": "Sinh nhật tôi vào ngày hai tháng sáu."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/i/lifetime1.png",
         "text_en": "lifetime",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "đời, cả cuộc đời",
-        "pronoun": "/´laif¸taim/",
+        "pronunciation": "/´laif¸taim/",
         "audio": "http://audio.tflat.vn/audio/l/i/lifetime.mp3",
-        "ex_en": "He had spent a lifetime trying to please his father.",
-        "ex_vi": "Anh ấy đã dành cả cuộc đời để cố gắng làm hài lòng bố của anh ấy"
+        "explain": "",
+        "example_en": "He had spent a lifetime trying to please his father.",
+        "example_vi": "Anh ấy đã dành cả cuộc đời để cố gắng làm hài lòng bố của anh ấy"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/h/show2.jpg",
         "text_en": "show",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "cho thấy, cho xem",
-        "pronoun": "/ʃəʊ/",
+        "pronunciation": "/ʃəʊ/",
         "audio": "http://audio.tflat.vn/audio/s/h/show.mp3",
-        "ex_en": "He began to show signs of recovery.",
-        "ex_vi": "Anh ta bắt đầu cho thấy dấu hiệu hồi phục."
+        "explain": "",
+        "example_en": "He began to show signs of recovery.",
+        "example_vi": "Anh ta bắt đầu cho thấy dấu hiệu hồi phục."
       }
     ]
   },
@@ -125,29 +141,33 @@
     "text_en": "I would rather be poor and in love with you, than being rich and not having anyone.",
     "text_vi": "Thà nghèo mà yêu còn hơn giàu có mà cô độc.",
     "author": "Khuyết danh",
-    "viewer": "2,231",
+    "viewer": "2,239",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/i/rich1.jpg",
         "text_en": "rich",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "giàu",
-        "pronoun": "/ritʃ/",
+        "pronunciation": "/ritʃ/",
         "audio": "http://audio.tflat.vn/audio/r/i/rich.mp3",
-        "ex_en": "Nobody gets rich from writing nowadays.",
-        "ex_vi": "Ngày nay không có ai trở nên giàu có từ viết lách"
+        "explain": "",
+        "example_en": "Nobody gets rich from writing nowadays.",
+        "example_vi": "Ngày nay không có ai trở nên giàu có từ viết lách"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/o/poor1.jpg",
         "text_en": "poor",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "nghèo, bần cùng",
-        "pronoun": "/puə/",
+        "pronunciation": "/puə/",
         "audio": "http://audio.tflat.vn/audio/p/o/poor.mp3",
-        "ex_en": "They were too poor to buy shoes for the kids",
-        "ex_vi": "Họ đã quá nghèo để mua giày cho trẻ em"
+        "explain": "",
+        "example_en": "They were too poor to buy shoes for the kids",
+        "example_vi": "Họ đã quá nghèo để mua giày cho trẻ em"
       }
     ]
   },
@@ -158,29 +178,33 @@
     "text_en": "You know when you love someone when you want them to be happy even if their happiness means that you are not part of it.",
     "text_vi": "Bạn biết rằng khi bạn yêu một người là lúc bạn mong muốn người đó được hạnh phúc, thậm chí hạnh phúc của họ có nghĩa là bạn không có trong đó.",
     "author": "Julia L. Roberts",
-    "viewer": "3,685",
+    "viewer": "3,697",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happiness1.jpg",
         "text_en": "happiness",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "hạnh phúc",
-        "pronoun": "/'hæpinis/",
+        "pronunciation": "/'hæpinis/",
         "audio": "http://audio.tflat.vn/audio/h/a/happiness.mp3",
-        "ex_en": "She struggled to find happiness in her life",
-        "ex_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
+        "explain": "",
+        "example_en": "She struggled to find happiness in her life",
+        "example_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/a/part1.jpg",
         "text_en": "part",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "phần, bộ phận",
-        "pronoun": "/pa:t/",
+        "pronunciation": "/pa:t/",
         "audio": "http://audio.tflat.vn/audio/p/a/part.mp3",
-        "ex_en": "I was part of the family",
-        "ex_vi": "Tôi là một phần của gia đình"
+        "explain": "",
+        "example_en": "I was part of the family",
+        "example_vi": "Tôi là một phần của gia đình"
       }
     ]
   },
@@ -191,19 +215,21 @@
     "text_en": "The only feeling of real loss is when you love someone more than you love yourself.",
     "text_vi": "Cảm giác mất mát duy nhất mà bạn thật sự cảm nhận được là khi bạn yêu một ai đó hơn cả chính bản thân mình.",
     "author": "Good Will Hunting Movie",
-    "viewer": "2,267",
+    "viewer": "2,276",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/o/loss1.jpg",
         "text_en": "loss",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự mất mát",
-        "pronoun": "/lɔs , lɒs/",
+        "pronunciation": "/lɔs , lɒs/",
         "audio": "http://audio.tflat.vn/audio/l/o/loss.mp3",
-        "ex_en": "He suffered a hearing loss.",
-        "ex_vi": "Anh ấy bị mất thính giác."
+        "explain": "",
+        "example_en": "He suffered a hearing loss.",
+        "example_vi": "Anh ấy bị mất thính giác."
       }
     ]
   },
@@ -214,29 +240,33 @@
     "text_en": "To the world you may be one person but to one person you may be the world.",
     "text_vi": "Đối với thế giới này bạn có thể chỉ là một người nhưng đối với ai đó bạn có thể là cả một thế giới.",
     "author": "Bill Wilson",
-    "viewer": "3,799",
+    "viewer": "3,817",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/o/world2.png",
         "text_en": "world",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "thế giới",
-        "pronoun": "/wɜːld/",
+        "pronunciation": "/wɜːld/",
         "audio": "http://audio.tflat.vn/audio/w/o/world.mp3",
-        "ex_en": "Russia is the largest country in the world.",
-        "ex_vi": "Nga là quốc gia lớn nhất thế giới."
+        "explain": "",
+        "example_en": "Russia is the largest country in the world.",
+        "example_vi": "Nga là quốc gia lớn nhất thế giới."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/e/person1.jpg",
         "text_en": "person",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "người (một người)",
-        "pronoun": "/ˈpɜrsən/",
+        "pronunciation": "/ˈpɜrsən/",
         "audio": "http://audio.tflat.vn/audio/p/e/person.mp3",
-        "ex_en": "He's just the person we need for the job.",
-        "ex_vi": "Anh ta chỉ là người mà chúng ta cần cho công việc"
+        "explain": "",
+        "example_en": "He's just the person we need for the job.",
+        "example_vi": "Anh ta chỉ là người mà chúng ta cần cho công việc"
       }
     ]
   },
@@ -247,19 +277,21 @@
     "text_en": "Don't try so hard, the best things come when you least expect them to.",
     "text_vi": "Đừng vội vã đi qua cuộc đời vì những điều tốt đẹp nhất sẽ đến với bạn đúng vào lúc mà bạn ít ngờ tới nhất.",
     "author": "Khuyết danh",
-    "viewer": "3,151",
+    "viewer": "3,163",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/x/expect2.jpg",
         "text_en": "expect",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "mong đợi",
-        "pronoun": "/ɪkˈspekt/",
+        "pronunciation": "/ɪkˈspekt/",
         "audio": "http://audio.tflat.vn/audio/e/x/expect.mp3",
-        "ex_en": "to think or believe that something will happen",
-        "ex_vi": "Họ đã không mong đợi anh ta tiếp tục"
+        "explain": "to think or believe that something will happen",
+        "example_en": "They were not expecting him to continue",
+        "example_vi": "Họ đã không mong đợi anh ta tiếp tục"
       }
     ]
   },
@@ -270,29 +302,33 @@
     "text_en": "Don’t let false love fool you, but don’t let real love pass you by.",
     "text_vi": "Đừng để tình yêu sai lầm đánh lừa bạn, nhưng đừng để tình yêu thực sự đi qua mình.",
     "author": "Khuyết danh",
-    "viewer": "2,773",
+    "viewer": "2,781",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/real1.jpg",
         "text_en": "real",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "thật, thật sự",
-        "pronoun": "/ˈriːəl/",
+        "pronunciation": "/ˈriːəl/",
         "audio": "http://audio.tflat.vn/audio/r/e/real.mp3",
-        "ex_en": "We have a real chance of success",
-        "ex_vi": "Chúng tôi có một cơ hội thực sự của thành công"
+        "explain": "",
+        "example_en": "We have a real chance of success",
+        "example_vi": "Chúng tôi có một cơ hội thực sự của thành công"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/false1.jpg",
         "text_en": "false",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "giả, sai",
-        "pronoun": "/fɔ:ls/",
+        "pronunciation": "/fɔ:ls/",
         "audio": "http://audio.tflat.vn/audio/f/a/false.mp3",
-        "ex_en": "She gave false i",
-        "ex_vi": "Cô ấy đã cho tôi sai"
+        "explain": "",
+        "example_en": "She gave false i",
+        "example_vi": "Cô ấy đã cho tôi sai"
       }
     ]
   },
@@ -303,39 +339,45 @@
     "text_en": "Love is a short word, easy to spell, difficult to define, impossible to live without.",
     "text_vi": "Yêu là một từ ngắn ngủi, dễ đánh vần, khó định nghĩa, sống thiếu nó là không thể.",
     "author": "Khuyết danh",
-    "viewer": "2,506",
+    "viewer": "2,515",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/define1.jpg",
         "text_en": "define",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "định rõ, vạch rõ",
-        "pronoun": "/dɪˈfaɪn/",
+        "pronunciation": "/dɪˈfaɪn/",
         "audio": "http://audio.tflat.vn/audio/d/e/define.mp3",
-        "ex_en": "We need to define the task ahead very clearly.",
-        "ex_vi": "Chúng tôi cần phải định rõ nhiệm vụ phía trước một cách rõ ràng"
+        "explain": "",
+        "example_en": "We need to define the task ahead very clearly.",
+        "example_vi": "Chúng tôi cần phải định rõ nhiệm vụ phía trước một cách rõ ràng"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/m/impossible1.png",
         "text_en": "impossible",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "không thể",
-        "pronoun": "/ɪmˈpɑːsəbl/",
+        "pronunciation": "/ɪmˈpɑːsəbl/",
         "audio": "http://audio.tflat.vn/audio/i/m/impossible.mp3",
-        "ex_en": "It was almost impossible to keep up with him",
-        "ex_vi": "Hầu như không thể theo kịp anh ta"
+        "explain": "",
+        "example_en": "It was almost impossible to keep up with him",
+        "example_vi": "Hầu như không thể theo kịp anh ta"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/p/spell1.jpg",
         "text_en": "spell",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đánh vần",
-        "pronoun": "/spel/",
+        "pronunciation": "/spel/",
         "audio": "http://audio.tflat.vn/audio/s/p/spell.mp3",
-        "ex_en": "Dolly spelled her name",
-        "ex_vi": "Dolly đã đánh vần tên của cô ấy"
+        "explain": "",
+        "example_en": "Dolly spelled her name",
+        "example_vi": "Dolly đã đánh vần tên của cô ấy"
       }
     ]
   },
@@ -346,39 +388,45 @@
     "text_en": "The worst way to miss someone is to be sitting right beside them knowing you can’t have them.",
     "text_vi": "Cách tệ nhất để nhớ một người là khi bạn ở ngồi bên người đó và biết rằng người đó không bao giờ thuộc về bạn.",
     "author": "William Shakespeare",
-    "viewer": "3,056",
+    "viewer": "3,066",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/i/miss1.png",
         "text_en": "miss",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "thấy nhớ (ai đó)",
-        "pronoun": "/'mis/",
+        "pronunciation": "/'mis/",
         "audio": "http://audio.tflat.vn/audio/m/i/miss.mp3",
-        "ex_en": "She will be greatly missed when she leaves",
-        "ex_vi": "Cô ấy sẽ được nhớ rất nhiều khi cô ấy rời đi"
+        "explain": "",
+        "example_en": "She will be greatly missed when she leaves",
+        "example_vi": "Cô ấy sẽ được nhớ rất nhiều khi cô ấy rời đi"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/o/worst1.jpg",
         "text_en": "worst",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "tệ nhất",
-        "pronoun": "/wə:st/",
+        "pronunciation": "/wə:st/",
         "audio": "http://audio.tflat.vn/audio/w/o/worst.mp3",
-        "ex_en": "What's the worst thing that could happen?",
-        "ex_vi": "Điều tệ nhất có thể xãy ra là gì?"
+        "explain": "",
+        "example_en": "What's the worst thing that could happen?",
+        "example_vi": "Điều tệ nhất có thể xãy ra là gì?"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/beside1.png",
         "text_en": "beside",
-        "word_type": "(prep):",
+        "word_type": "(prep)",
         "text_vi": "bên cạnh",
-        "pronoun": "/bi´said/",
+        "pronunciation": "/bi´said/",
         "audio": "http://audio.tflat.vn/audio/b/e/beside.mp3",
-        "ex_en": "He sat beside her all night.",
-        "ex_vi": "Anh ấy ngồi bên cạnh cô ta suốt đêm"
+        "explain": "",
+        "example_en": "He sat beside her all night.",
+        "example_vi": "Anh ấy ngồi bên cạnh cô ta suốt đêm"
       }
     ]
   },
@@ -389,29 +437,33 @@
     "text_en": "You know you love someone when you cannot put into words how they make you feel.",
     "text_vi": "Ta biết rằng ta yêu một người khi ta không thể diễn đạt thành lời cảm giác mà người ấy mang lại cho ta.",
     "author": "Margaret Mead",
-    "viewer": "2,417",
+    "viewer": "2,425",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/o/word1.png",
         "text_en": "word",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "chữ, lời nói, lời (nhận xét, tuyên bố..)",
-        "pronoun": "/ /wɜ:rd//",
+        "pronunciation": "/ /wɜ:rd//",
         "audio": "http://audio.tflat.vn/audio/w/o/word.mp3",
-        "ex_en": "I could hear every word they were saying",
-        "ex_vi": "Tôi đã nghe mọi lời nói mà họ đã nói"
+        "explain": "",
+        "example_en": "I could hear every word they were saying",
+        "example_vi": "Tôi đã nghe mọi lời nói mà họ đã nói"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/u/put-11.jpg",
         "text_en": "put",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "diễn đạt, diễn tả",
-        "pronoun": "/n/",
+        "pronunciation": "/n/",
         "audio": "http://audio.tflat.vn/audio/p/u/put-1.mp3",
-        "ex_en": "I put it in black and white",
-        "ex_vi": "Tôi đã diễn tả chúng bằng giấy trắng mực đen"
+        "explain": "",
+        "example_en": "I put it in black and white",
+        "example_vi": "Tôi đã diễn tả chúng bằng giấy trắng mực đen"
       }
     ]
   },
@@ -422,39 +474,45 @@
     "text_en": "A man falls in love through his eyes, a woman through her ears.",
     "text_vi": "Con gái yêu bằng tai, con trai yêu bằng mắt.",
     "author": "Woodrow Wyatt",
-    "viewer": "2,374",
+    "viewer": "2,384",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/h/through1.jpg",
         "text_en": "through",
-        "word_type": "(prep):",
+        "word_type": "(prep)",
         "text_vi": "xuyên qua, xuyên suốt",
-        "pronoun": "/θru:/",
+        "pronunciation": "/θru:/",
         "audio": "http://audio.tflat.vn/audio/t/h/through.mp3",
-        "ex_en": "The bullet went straight through him.",
-        "ex_vi": "Viên đạn đi xuyên qua ông ta"
+        "explain": "",
+        "example_en": "The bullet went straight through him.",
+        "example_vi": "Viên đạn đi xuyên qua ông ta"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/y/eye2.jpg",
         "text_en": "eye",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "mắt",
-        "pronoun": "/aɪ/",
+        "pronunciation": "/aɪ/",
         "audio": "http://audio.tflat.vn/audio/e/y/eye.mp3",
-        "ex_en": "There were tears in his eyes.",
-        "ex_vi": "Có nước mắt trên mắt của anh ấy"
+        "explain": "",
+        "example_en": "There were tears in his eyes.",
+        "example_vi": "Có nước mắt trên mắt của anh ấy"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/a/ear1.png",
         "text_en": "ear",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "tai",
-        "pronoun": "/iə(r)/",
+        "pronunciation": "/iə(r)/",
         "audio": "http://audio.tflat.vn/audio/e/a/ear.mp3",
-        "ex_en": "He put his hands over his ears.",
-        "ex_vi": "Anh ta đặt tay của mình lên tai"
+        "explain": "",
+        "example_en": "He put his hands over his ears.",
+        "example_vi": "Anh ta đặt tay của mình lên tai"
       }
     ]
   },
@@ -465,19 +523,21 @@
     "text_en": "I love you not because of who you are, but because of who I am when I am with you.",
     "text_vi": "Tôi yêu em không phải vì em là ai, mà là vì tôi là người thế nào khi ở bên em.",
     "author": "Roy Croft",
-    "viewer": "5,658",
+    "viewer": "5,671",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/because1.jpg",
         "text_en": "because",
-        "word_type": "(prep):",
+        "word_type": "(prep)",
         "text_vi": "bởi vì",
-        "pronoun": "/bi'kɔz/",
+        "pronunciation": "/bi'kɔz/",
         "audio": "http://audio.tflat.vn/audio/b/e/because.mp3",
-        "ex_en": "I did it because he told me to.",
-        "ex_vi": "Tôi làm vì anh anh ấy nói tôi làm"
+        "explain": "",
+        "example_en": "I did it because he told me to.",
+        "example_vi": "Tôi làm vì anh anh ấy nói tôi làm"
       }
     ]
   },
@@ -488,19 +548,21 @@
     "text_en": "Love will find a way.",
     "text_vi": "Tình yêu sẽ mở lối.",
     "author": "Khuyết danh",
-    "viewer": "2,186",
+    "viewer": "2,194",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/w/a/way1.png",
         "text_en": "way",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "cách thức, phương pháp",
-        "pronoun": "/wei/",
+        "pronunciation": "/wei/",
         "audio": "http://audio.tflat.vn/audio/w/a/way.mp3",
-        "ex_en": "I hated their way of cooking potatoes",
-        "ex_vi": "Tôi ghét cách họ nấu khoai tây"
+        "explain": "",
+        "example_en": "I hated their way of cooking potatoes",
+        "example_vi": "Tôi ghét cách họ nấu khoai tây"
       }
     ]
   },
@@ -511,29 +573,33 @@
     "text_en": "Don’t cry because it is over, smile because it happened.",
     "text_vi": "Hãy đừng khóc khi một điều gì đó kết thúc, hãy mỉm cười vì điều đó đến.",
     "author": "Dr.Seuss",
-    "viewer": "4,840",
+    "viewer": "4,862",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/m/smile1.jpg",
         "text_en": "smile",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "cười, mỉm cười",
-        "pronoun": "/smaɪl/",
+        "pronunciation": "/smaɪl/",
         "audio": "http://audio.tflat.vn/audio/s/m/smile.mp3",
-        "ex_en": "He never seems to smile.",
-        "ex_vi": "anh ta dường như không bao giờ cười"
+        "explain": "",
+        "example_en": "He never seems to smile.",
+        "example_vi": "anh ta dường như không bao giờ cười"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happen1.jpg",
         "text_en": "happen",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "Xảy ra",
-        "pronoun": "/'hæpən/",
+        "pronunciation": "/'hæpən/",
         "audio": "http://audio.tflat.vn/audio/h/a/happen.mp3",
-        "ex_en": "You'll never guess what's happened!",
-        "ex_vi": "Em sẽ không bao giờ đoán được chuyện gì đã xảy ra đâu"
+        "explain": "",
+        "example_en": "You'll never guess what's happened!",
+        "example_vi": "Em sẽ không bao giờ đoán được chuyện gì đã xảy ra đâu"
       }
     ]
   },
@@ -544,29 +610,33 @@
     "text_en": "It's nice when someone remembers the small details about you. Not because you keep reminding them, but because they care.",
     "text_vi": "Thật tuyệt khi một ai đó nhớ từng chi tiết nhỏ về mình. Không phải vì họ được nhắc thường xuyên mà chỉ vì họ thật sự quan tâm đến ta.",
     "author": "Me Before You Movie",
-    "viewer": "2,747",
+    "viewer": "2,759",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/remind1.jpg",
         "text_en": "remind",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nhắc nhở",
-        "pronoun": "/rɪˈmaɪnd/",
+        "pronunciation": "/rɪˈmaɪnd/",
         "audio": "http://audio.tflat.vn/audio/r/e/remind.mp3",
-        "ex_en": "to help someone remember something",
-        "ex_vi": "Tôi nhắc người khách rằng chúng tôi sẽ gặp nhau để đi ăn vào ngày mai"
+        "explain": "to help someone remember something",
+        "example_en": "I remind the client that we are meeting for dinner tomorrow",
+        "example_vi": "Tôi nhắc người khách rằng chúng tôi sẽ gặp nhau để đi ăn vào ngày mai"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/a/care-v1.jpg",
         "text_en": "care",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "quan tâm đến, trông nom",
-        "pronoun": "/kɛər/",
+        "pronunciation": "/kɛər/",
         "audio": "http://audio.tflat.vn/audio/c/a/care-v.mp3",
-        "ex_en": "I don't care what she says",
-        "ex_vi": "Tôi không quan tâm điều cô ấy nói"
+        "explain": "",
+        "example_en": "I don't care what she says",
+        "example_vi": "Tôi không quan tâm điều cô ấy nói"
       }
     ]
   },
@@ -577,29 +647,33 @@
     "text_en": "Once you've met someone you never really forget them.",
     "text_vi": "Một khi ta đã gặp ai đó thì rất khó để quên được họ.",
     "author": "Spirited Away Movie",
-    "viewer": "4,559",
+    "viewer": "4,566",
     "category": "tinh-yeu",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/n/once1.jpg",
         "text_en": "once",
-        "word_type": "(adv):",
+        "word_type": "(adv)",
         "text_vi": "một lần",
-        "pronoun": "/wʌns/",
+        "pronunciation": "/wʌns/",
         "audio": "http://audio.tflat.vn/audio/o/n/once.mp3",
-        "ex_en": "He cleans his car once a week.",
-        "ex_vi": "Anh ấy rửa xe một tuần một lần"
+        "explain": "",
+        "example_en": "He cleans his car once a week.",
+        "example_vi": "Anh ấy rửa xe một tuần một lần"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/o/forget1.png",
         "text_en": "forget",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "quên",
-        "pronoun": "/fərˈɡet/",
+        "pronunciation": "/fərˈɡet/",
         "audio": "http://audio.tflat.vn/audio/f/o/forget.mp3",
-        "ex_en": "to be unable to remember something",
-        "ex_vi": "Anh nhân viên phục vụ quên mang các ổ bánh mì, gây bực mình cho người khách."
+        "explain": "to be unable to remember something",
+        "example_en": "The waiter forgot to bring the rolls, annoying the customer.",
+        "example_vi": "Anh nhân viên phục vụ quên mang các ổ bánh mì, gây bực mình cho người khách."
       }
     ]
   }

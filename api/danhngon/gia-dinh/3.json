@@ -6,19 +6,21 @@
     "text_en": "My family comes first. Maybe that’s what makes me different from other guys.",
     "text_vi": "Gia đình tôi sẽ luôn là đầu tiên. Có lẽ đó là điều làm tôi khác biệt với những chàng trai còn lại.",
     "author": "Bobby Darin",
-    "viewer": "979",
+    "viewer": "984",
     "category": "gia-dinh",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/i/different1.png",
         "text_en": "different",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "khác",
-        "pronoun": "/ˈdɪfərənt/",
+        "pronunciation": "/ˈdɪfərənt/",
         "audio": "http://audio.tflat.vn/audio/d/i/different.mp3",
-        "ex_en": "It's very different to what I'm used to",
-        "ex_vi": "Nó rất khác với cái mà tôi đã sử dụng"
+        "explain": "",
+        "example_en": "It's very different to what I'm used to",
+        "example_vi": "Nó rất khác với cái mà tôi đã sử dụng"
       }
     ]
   },
@@ -29,29 +31,33 @@
     "text_en": "When trouble comes, it’s your family that supports you.",
     "text_vi": "Khi khó khăn xuất hiện, gia đình sẽ luôn ủng hộ bạn.",
     "author": "Guy Lafleur",
-    "viewer": "848",
+    "viewer": "853",
     "category": "gia-dinh",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/r/trouble1.jpg",
         "text_en": "trouble",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "điều lo lắng, điều rắc rối, điều phiền muộn",
-        "pronoun": "/'trʌbl/",
+        "pronunciation": "/'trʌbl/",
         "audio": "http://audio.tflat.vn/audio/t/r/trouble.mp3",
-        "ex_en": "Friends should support each other when they are in trouble",
-        "ex_vi": "Bạn bè nên hỗ trợ lẫn nhau khi họ gặp rắc rối"
+        "explain": "",
+        "example_en": "Friends should support each other when they are in trouble",
+        "example_vi": "Bạn bè nên hỗ trợ lẫn nhau khi họ gặp rắc rối"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/support1.jpg",
         "text_en": "support",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "ủng hộ, hỗ trợ",
-        "pronoun": "/sə´pɔ:t/",
+        "pronunciation": "/sə´pɔ:t/",
         "audio": "http://audio.tflat.vn/audio/s/u/support.mp3",
-        "ex_en": "She supported her husband through many difficult times",
-        "ex_vi": "Cô ấy đã hỗ trợ chồng mình qua nhiều thời điểm khó khăn"
+        "explain": "",
+        "example_en": "She supported her husband through many difficult times",
+        "example_vi": "Cô ấy đã hỗ trợ chồng mình qua nhiều thời điểm khó khăn"
       }
     ]
   },
@@ -62,19 +68,21 @@
     "text_en": "Without a family, man, alone in the world, trembles with the cold.",
     "text_vi": "Khi không có gia đình, người đàn ông, sẽ cô đơn một mình trên thế giới này và run rẩy trước cái lạnh.",
     "author": "Andre Maurois",
-    "viewer": "1,005",
+    "viewer": "1,009",
     "category": "gia-dinh",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/r/tremble1.jpg",
         "text_en": "tremble",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "rung, rung sợ",
-        "pronoun": "/'trembl/",
+        "pronunciation": "/'trembl/",
         "audio": "http://audio.tflat.vn/audio/t/r/tremble.mp3",
-        "ex_en": "My legs were trembling with fear",
-        "ex_vi": "Chân tôi rung lên vì sợ hãi"
+        "explain": "",
+        "example_en": "My legs were trembling with fear",
+        "example_vi": "Chân tôi rung lên vì sợ hãi"
       }
     ]
   },
@@ -85,29 +93,33 @@
     "text_en": "The strength of a nation derives from the integrity of the home.",
     "text_vi": "Sức mạnh của một dân tộc có nguồn gốc từ sự toàn vẹn của một gia đình.",
     "author": "Benjamin Franklin",
-    "viewer": "856",
+    "viewer": "862",
     "category": "gia-dinh",
     "page": 3,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/t/strength1.jpg",
         "text_en": "strength",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "điểm mạnh, sức mạnh, sức lực",
-        "pronoun": "/'streɳθ/",
+        "pronunciation": "/'streɳθ/",
         "audio": "http://audio.tflat.vn/audio/s/t/strength.mp3",
-        "ex_en": "She didn't have the strength to walk any further.",
-        "ex_vi": "Cô ấy không còn đủ sức lực để đi xa hơn nữa"
+        "explain": "",
+        "example_en": "She didn't have the strength to walk any further.",
+        "example_vi": "Cô ấy không còn đủ sức lực để đi xa hơn nữa"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/integrity1.jpg",
         "text_en": "integrity",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "tính toàn bộ, tính toàn vẹn",
-        "pronoun": "/in´tegriti/",
+        "pronunciation": "/in´tegriti/",
         "audio": "http://audio.tflat.vn/audio/i/n/integrity.mp3",
-        "ex_en": "upholding territorial integrity and national sovereignty",
-        "ex_vi": "giữ gìn toàn vẹn lãnh thổ và chủ quyền quốc gia"
+        "explain": "",
+        "example_en": "upholding territorial integrity and national sovereignty",
+        "example_vi": "giữ gìn toàn vẹn lãnh thổ và chủ quyền quốc gia"
       }
     ]
   }

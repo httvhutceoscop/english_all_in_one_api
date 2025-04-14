@@ -1,10 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 import time
-import os
 from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url, get_text_or_empty
 
+TOTAL_PAGE = 2
 BASE_URL = "https://tienganhtflat.com/danh-ngon?page={}&per-page=18"
 CAT_TINH_YEU = "tinh-yeu"
 CAT_CUOC_SONG = "cuoc-song"
@@ -92,7 +91,7 @@ def crawl_all_quotes(category):
 
         page += 1
         time.sleep(1)  # nghỉ 1s giữa các lần request để tránh bị chặn
-        if category and page > 4:
+        if category and page > TOTAL_PAGE:
             print("✅ Đã lấy đủ danh ngôn cho danh mục:", category)
             break
         # break
@@ -113,6 +112,7 @@ def crawl_vocab(url):
     words_list = soup.select(".words-list .item-content")
 
     words = []
+    count = 1
     for word in words_list:
         img_thumb = HOST_MEDIA + \
             remove_domain_from_url(
@@ -121,6 +121,7 @@ def crawl_vocab(url):
             "div p a").next_sibling.strip() if word.select_one("div p a") else ""
         word_type = word.select_one(
             "div p b").next_sibling.strip() if word.select_one("div p b") else ""
+        word_type = word_type.replace("\n", "").replace(":", "")
         word_type = word_type.replace("\n", "")
         text_en = get_text_or_empty(word, "div p b")
         text_vi = get_text_or_empty(word, "div p i")
@@ -129,19 +130,33 @@ def crawl_vocab(url):
 
         # Lấy ví dụ nếu có
         example_block = word.select_one("div p:nth-of-type(2)")
-        example_en = get_text_or_empty(example_block, "b")
+        explain = ""
+        example_en = ""
+
+        if example_block.select_one("b:nth-of-type(2)"):
+            explain = example_block.select_one(
+                "b:nth-of-type(1)").next_sibling.strip()
+            example_en = example_block.select_one(
+                "b:nth-of-type(2)").next_sibling.strip()
+        elif example_block.select_one("b"):
+            example_en = example_block.select_one("b").next_sibling.strip()
+
         example_vi = get_text_or_empty(example_block, "i")
 
         words.append({
+            "id": count,
             "img_thumb": img_thumb,
             "text_en": text_en,
             "word_type": word_type,
             "text_vi": text_vi,
             "pronunciation": pronunciation,
             "audio": audio,
+            "explain": explain,
             "example_en": example_en,
             "example_vi": example_vi
         })
+
+        count += 1
 
     return words
 
@@ -152,5 +167,5 @@ def crawl_vocab(url):
 # crawl_all_quotes(CAT_TINH_YEU)
 # crawl_all_quotes(CAT_CUOC_SONG)
 # crawl_all_quotes(CAT_GIA_DINH)
-# crawl_all_quotes(CAT_TINH_BAN)
+crawl_all_quotes(CAT_TINH_BAN)
 # crawl_all_quotes(CAT_CONG_VIEC)

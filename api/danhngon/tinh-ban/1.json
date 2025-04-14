@@ -6,29 +6,33 @@
     "text_en": "I don’t need a friend who changes when I change and who nods when I nod; my shadow does that much better.",
     "text_vi": "Tôi không cần một người bạn thay đổi khi tôi thay đổi và gật đầu khi tôi gật đầu; cái bóng của tôi làm chuyện đó tốt hơn.",
     "author": "Plutarch",
-    "viewer": "1,808",
+    "viewer": "1,816",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/n/o/nod1.jpg",
         "text_en": "nod",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "gật đầu, cúi đầu",
-        "pronoun": "/nɒd/",
+        "pronunciation": "/nɒd/",
         "audio": "http://audio.tflat.vn/audio/n/o/nod.mp3",
-        "ex_en": "I asked him if he would help me and he nodded.",
-        "ex_vi": "Tôi đã hỏi anh ấy liệu anh ấy có thể giúp tôi không và anh ấy đã gật đầu"
+        "explain": "",
+        "example_en": "I asked him if he would help me and he nodded.",
+        "example_vi": "Tôi đã hỏi anh ấy liệu anh ấy có thể giúp tôi không và anh ấy đã gật đầu"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/h/shadow1.jpg",
         "text_en": "shadow",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "bóng, bóng tối, bóng mát",
-        "pronoun": "/ˈʃædəu/",
+        "pronunciation": "/ˈʃædəu/",
         "audio": "http://audio.tflat.vn/audio/s/h/shadow.mp3",
-        "ex_en": "trees cast long shadows",
-        "ex_vi": "Những cái cây đổ những cái bóng dài"
+        "explain": "",
+        "example_en": "trees cast long shadows",
+        "example_vi": "Những cái cây đổ những cái bóng dài"
       }
     ]
   },
@@ -39,29 +43,33 @@
     "text_en": "Good books, like good friends, are few and chosen; the more select, the more enjoyable.",
     "text_vi": "Sách hay, cũng như bạn tốt, ít và được chọn lựa; chọn lựa càng nhiều, thưởng thức càng nhiều.",
     "author": "Louisa May Alcott",
-    "viewer": "2,412",
+    "viewer": "2,419",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/e/select1.png",
         "text_en": "select",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "chọn lựa, chọn lọc",
-        "pronoun": "/si'lekt/",
+        "pronunciation": "/si'lekt/",
         "audio": "http://audio.tflat.vn/audio/s/e/select.mp3",
-        "ex_en": "to choose somebody / something from a group",
-        "ex_vi": "Chúng đã được chọn để hợp với đôi giày của cô ấy."
+        "explain": "to choose somebody / something from a group",
+        "example_en": "They were selected to match her clothes.",
+        "example_vi": "Chúng đã được chọn để hợp với đôi giày của cô ấy."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/e/n/enjoyable1.jpg",
         "text_en": "enjoyable",
-        "word_type": "(adj.):",
+        "word_type": "(adj.)",
         "text_vi": "thích thú, thú vị",
-        "pronoun": "/ɪnˈdʒɔɪəbl ̩/",
+        "pronunciation": "/ɪnˈdʒɔɪəbl ̩/",
         "audio": "http://audio.tflat.vn/audio/e/n/enjoyable.mp3",
-        "ex_en": "Thank you for a very enjoyable evening.",
-        "ex_vi": "Cảm ơn các bạn vì một buổi tối thú vị."
+        "explain": "",
+        "example_en": "Thank you for a very enjoyable evening.",
+        "example_vi": "Cảm ơn các bạn vì một buổi tối thú vị."
       }
     ]
   },
@@ -72,29 +80,33 @@
     "text_en": "For the friendship of two, the patience of one is required.",
     "text_vi": "Cho tình bạn của hai người bền chặt, cần có sự kiên nhẫn của một người.",
     "author": "Tục ngữ Ấn Độ",
-    "viewer": "2,159",
+    "viewer": "2,169",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/a/patience1.jpg",
         "text_en": "patience",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tính kiên nhẫn, tính nhẫn nại",
-        "pronoun": "/´peiʃəns/",
+        "pronunciation": "/´peiʃəns/",
         "audio": "http://audio.tflat.vn/audio/p/a/patience.mp3",
-        "ex_en": "My patience is wearing thin",
-        "ex_vi": "Sự kiên nhẫn của tôi trở nên ít đi"
+        "explain": "",
+        "example_en": "My patience is wearing thin",
+        "example_vi": "Sự kiên nhẫn của tôi trở nên ít đi"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/require1.jpg",
         "text_en": "require",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đòi hỏi, yêu cầu",
-        "pronoun": "/ri'kwaiə/",
+        "pronunciation": "/ri'kwaiə/",
         "audio": "http://audio.tflat.vn/audio/r/e/require.mp3",
-        "ex_en": "to need something; to depend on s.b / s.th",
-        "ex_vi": "Tình trạng này cần được điều trị khẩn cấp"
+        "explain": "to need something; to depend on s.b / s.th",
+        "example_en": "This condition requires urgent treatment",
+        "example_vi": "Tình trạng này cần được điều trị khẩn cấp"
       }
     ]
   },
@@ -105,19 +117,21 @@
     "text_en": "Misfortune shows those who are not really friends.",
     "text_vi": "Lúc khốn khó cho ta thấy những người không phải là bạn bè mình.",
     "author": "Aristotle",
-    "viewer": "2,135",
+    "viewer": "2,142",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/i/misfortune1.jpg",
         "text_en": "Misfortune",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự rủi ro, sự bất hạnh",
-        "pronoun": "/mis'fɔ:tʃn/",
+        "pronunciation": "/mis'fɔ:tʃn/",
         "audio": "http://audio.tflat.vn/audio/m/i/misfortune.mp3",
-        "ex_en": "He has known great misfortune in his life.",
-        "ex_vi": "Anh ấy đã biết được bất hạnh lớn nhất của cuộc đời mình"
+        "explain": "",
+        "example_en": "He has known great misfortune in his life.",
+        "example_vi": "Anh ấy đã biết được bất hạnh lớn nhất của cuộc đời mình"
       }
     ]
   },
@@ -128,39 +142,45 @@
     "text_en": "Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a ...",
     "text_vi": "Mỗi người bạn thể hiện một thế giới trong chúng ta, một thế giới chưa thể được sinh ra cho đến khi họ tới, và chỉ bằng cuộc gặp gỡ này mà một thế giới mới đã được sinh ra.",
     "author": "Anais Nin",
-    "viewer": "1,882",
+    "viewer": "1,891",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/represent1.jpg",
         "text_en": "represent",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đại diện, tượng trưng cho",
-        "pronoun": "/repri'zent/",
+        "pronunciation": "/repri'zent/",
         "audio": "http://audio.tflat.vn/audio/r/e/represent.mp3",
-        "ex_en": "The President was represented at the ceremony by the Vice-President.",
-        "ex_vi": "Tổng thống đã được đại diện bởi phó tổng thống tại buổi lễ"
+        "explain": "",
+        "example_en": "The President was represented at the ceremony by the Vice-President.",
+        "example_vi": "Tổng thống đã được đại diện bởi phó tổng thống tại buổi lễ"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/o/possibly1.jpg",
         "text_en": "possibly",
-        "word_type": "(adv):",
+        "word_type": "(adv)",
         "text_vi": "có thể",
-        "pronoun": "/ˈpɒsəbli/",
+        "pronunciation": "/ˈpɒsəbli/",
         "audio": "http://audio.tflat.vn/audio/p/o/possibly.mp3",
-        "ex_en": "It was possibly their worst performance ever",
-        "ex_vi": "Đây có thể là buổi trình diễn tệ nhất trước giờ"
+        "explain": "",
+        "example_en": "It was possibly their worst performance ever",
+        "example_vi": "Đây có thể là buổi trình diễn tệ nhất trước giờ"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/r/arrive1.jpeg",
         "text_en": "arrive",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đến",
-        "pronoun": "/ə'raiv/",
+        "pronunciation": "/ə'raiv/",
         "audio": "http://audio.tflat.vn/audio/a/r/arrive.mp3",
-        "ex_en": "to reach a destination",
-        "ex_vi": "Vào lúc mà thức ăn của chúng tôi được đem tới, nó đã nguội lạnh"
+        "explain": "to reach a destination",
+        "example_en": "By the time our meal arrived, it was cold",
+        "example_vi": "Vào lúc mà thức ăn của chúng tôi được đem tới, nó đã nguội lạnh"
       }
     ]
   },
@@ -171,19 +191,21 @@
     "text_en": "Adversity does teach who your real friends are.",
     "text_vi": "Hoạn nạn mới biết bạn hiền.",
     "author": "Lois McMaster Bujold",
-    "viewer": "1,570",
+    "viewer": "1,578",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/d/adversity1.jpg",
         "text_en": "adversity",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "nghịch cảnh, sự bất hạnh",
-        "pronoun": "/əd´və:siti/",
+        "pronunciation": "/əd´və:siti/",
         "audio": "http://audio.tflat.vn/audio/a/d/adversity.mp3",
-        "ex_en": "She overcame many adversities",
-        "ex_vi": "Cô ấy đã vượt qua nhiều nghịch cảnh"
+        "explain": "",
+        "example_en": "She overcame many adversities",
+        "example_vi": "Cô ấy đã vượt qua nhiều nghịch cảnh"
       }
     ]
   },
@@ -194,19 +216,21 @@
     "text_en": "Without friends no one would choose to live, though he had all other goods.",
     "text_vi": "Không có bạn bè thì chẳng ai sẽ chọn để sống, mặc dù có tất cả những thứ khác đi chăng nữa.",
     "author": "Aristotle",
-    "viewer": "1,254",
+    "viewer": "1,265",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/h/choose-l61.jpg",
         "text_en": "choose",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "chọn, chọn lựa",
-        "pronoun": "/tʃuːz/",
+        "pronunciation": "/tʃuːz/",
         "audio": "http://audio.tflat.vn/audio/c/h/choose-l6.mp3",
-        "ex_en": "Listen and choose the best answer.",
-        "ex_vi": "Lắng nghe và chọn đáp án chính xác nhất."
+        "explain": "",
+        "example_en": "Listen and choose the best answer.",
+        "example_vi": "Lắng nghe và chọn đáp án chính xác nhất."
       }
     ]
   },
@@ -217,49 +241,57 @@
     "text_en": "Friendship: a building contract you sign with laughter and break with tears.",
     "text_vi": "Tình bạn là bản hợp đồng xây dựng bắt đầu từ tiếng cười và kết thúc bằng nước mắt.",
     "author": "Marlene Dietrich",
-    "viewer": "1,352",
+    "viewer": "1,358",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/contracts1.jpg",
         "text_en": "contract",
-        "word_type": "(pl.n):",
+        "word_type": "(pl.n)",
         "text_vi": "hợp đồng",
-        "pronoun": "/kənˈtrakts/",
+        "pronunciation": "/kənˈtrakts/",
         "audio": "http://audio.tflat.vn/audio/c/o/contracts.mp3",
-        "ex_en": "a contract for the supply of vehicles",
-        "ex_vi": "một hợp đồng cung cấp các loại xe"
+        "explain": "",
+        "example_en": "a contract for the supply of vehicles",
+        "example_vi": "một hợp đồng cung cấp các loại xe"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/i/sign-v1.jpg",
         "text_en": "sign",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "ký tên, làm dấu",
-        "pronoun": "/sain/",
+        "pronunciation": "/sain/",
         "audio": "http://audio.tflat.vn/audio/s/i/sign-v.mp3",
-        "ex_en": "Sign your name here, please.",
-        "ex_vi": "Vui lòng ký tên bạn ở đây"
+        "explain": "",
+        "example_en": "Sign your name here, please.",
+        "example_vi": "Vui lòng ký tên bạn ở đây"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/a/laugh1.jpg",
         "text_en": "laugh",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tiếng cười (cười lớn)",
-        "pronoun": "/lɑ:f/",
+        "pronunciation": "/lɑ:f/",
         "audio": "http://audio.tflat.vn/audio/l/a/laugh.mp3",
-        "ex_en": "You never laugh at my jokes!",
-        "ex_vi": "Em chưa bao giờ cười với những câu chuyện cười của anh"
+        "explain": "",
+        "example_en": "You never laugh at my jokes!",
+        "example_vi": "Em chưa bao giờ cười với những câu chuyện cười của anh"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/e/tear1.jpg",
         "text_en": "tear",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "nước mắt, lệ",
-        "pronoun": "",
+        "pronunciation": "",
         "audio": "http://audio.tflat.vn/audio/t/e/tear.mp3",
-        "ex_en": "A tear rolled down his face.",
-        "ex_vi": "Một giọt nước mắt lăn dài trên khuôn mặt anh ấy"
+        "explain": "",
+        "example_en": "A tear rolled down his face.",
+        "example_vi": "Một giọt nước mắt lăn dài trên khuôn mặt anh ấy"
       }
     ]
   },
@@ -270,29 +302,33 @@
     "text_en": "A good laugh is sunshine in a house.",
     "text_vi": "Một tiếng cười vui vẻ là tia nắng lan tỏa khắp nhà.",
     "author": "William Makepeace Thackeray",
-    "viewer": "1,316",
+    "viewer": "1,325",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/sunshine1.jpg",
         "text_en": "sunshine",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "ánh nắng, ánh sáng mặt trời",
-        "pronoun": "/'sʌn∫ain/",
+        "pronunciation": "/'sʌn∫ain/",
         "audio": "http://audio.tflat.vn/audio/s/u/sunshine.mp3",
-        "ex_en": "She brought sunshine into our dull lives.",
-        "ex_vi": "Cô ấy đã mang ánh nắng mặt trời vào cuộc sống tẻ nhạt của chúng tôi"
+        "explain": "",
+        "example_en": "She brought sunshine into our dull lives.",
+        "example_vi": "Cô ấy đã mang ánh nắng mặt trời vào cuộc sống tẻ nhạt của chúng tôi"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/l/a/laugh1.jpg",
         "text_en": "laugh",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "tiếng cười (cười lớn)",
-        "pronoun": "/lɑ:f/",
+        "pronunciation": "/lɑ:f/",
         "audio": "http://audio.tflat.vn/audio/l/a/laugh.mp3",
-        "ex_en": "You never laugh at my jokes!",
-        "ex_vi": "Em chưa bao giờ cười với những câu chuyện cười của anh"
+        "explain": "",
+        "example_en": "You never laugh at my jokes!",
+        "example_vi": "Em chưa bao giờ cười với những câu chuyện cười của anh"
       }
     ]
   },
@@ -303,29 +339,33 @@
     "text_en": "Be slow in choosing a friend, slower in changing.",
     "text_vi": "Hãy chọn bạn từ từ, nhưng khi thay bạn thì phải từ từ hơn nữa.",
     "author": "Benjamin Franklin",
-    "viewer": "1,558",
+    "viewer": "1,564",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/l/slow1.png",
         "text_en": "slow",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "chậm",
-        "pronoun": "/sləʊ/",
+        "pronunciation": "/sləʊ/",
         "audio": "http://audio.tflat.vn/audio/s/l/slow.mp3",
-        "ex_en": "Progress was slower than expected.",
-        "ex_vi": "tiến độ chậm hơn mong đợi"
+        "explain": "",
+        "example_en": "Progress was slower than expected.",
+        "example_vi": "tiến độ chậm hơn mong đợi"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/h/change1.jpg",
         "text_en": "change",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "thay đổi",
-        "pronoun": "/tʃeinʤ/",
+        "pronunciation": "/tʃeinʤ/",
         "audio": "http://audio.tflat.vn/audio/c/h/change.mp3",
-        "ex_en": "Her life changed completely when she won the lottery.",
-        "ex_vi": "Cuộc sống của cô ấy thay đổi hoàn toàn khi cô trúng xổ số"
+        "explain": "",
+        "example_en": "Her life changed completely when she won the lottery.",
+        "example_vi": "Cuộc sống của cô ấy thay đổi hoàn toàn khi cô trúng xổ số"
       }
     ]
   },
@@ -336,29 +376,33 @@
     "text_en": "It is one of the blessings of old friend that you can afford to be stupid with them.",
     "text_vi": "Một trong những điều hạnh phúc khi có người bạn thâm tình là ta không ngần ngại tỏ ra sự ngu ngốc của mình.",
     "author": "Ralph Waldo Emerson",
-    "viewer": "1,378",
+    "viewer": "1,384",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/f/afford1.jpg",
         "text_en": "afford",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "có thể, có đủ khả năng",
-        "pronoun": "/ə'fɔ:d/",
+        "pronunciation": "/ə'fɔ:d/",
         "audio": "http://audio.tflat.vn/audio/a/f/afford.mp3",
-        "ex_en": "None of them could afford £50 for a ticket.",
-        "ex_vi": "Không ai có thể ả 50 đô cho 1 tấm vé"
+        "explain": "",
+        "example_en": "None of them could afford £50 for a ticket.",
+        "example_vi": "Không ai có thể ả 50 đô cho 1 tấm vé"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/t/stupid1.jpg",
         "text_en": "stupid",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "ngu",
-        "pronoun": "/ˈstupɪd/",
+        "pronunciation": "/ˈstupɪd/",
         "audio": "http://audio.tflat.vn/audio/s/t/stupid.mp3",
-        "ex_en": "It was a pretty stupid thing to do.",
-        "ex_vi": "Đó là thứ ngu ngốc để làm"
+        "explain": "",
+        "example_en": "It was a pretty stupid thing to do.",
+        "example_vi": "Đó là thứ ngu ngốc để làm"
       }
     ]
   },
@@ -369,29 +413,33 @@
     "text_en": "No man can be happy without a friend, nor be sure of his friend till he is unhappy.",
     "text_vi": "Không ai có thể hạnh phúc mà không có bạn bè, hay chắc chắn về bạn bè mình cho tới khi gặp bất hạnh.",
     "author": "Thomas Fuller",
-    "viewer": "1,732",
+    "viewer": "1,740",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happy1.png",
         "text_en": "happy",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "hạnh phúc",
-        "pronoun": "/ /ˈhæpi//",
+        "pronunciation": "/ /ˈhæpi//",
         "audio": "http://audio.tflat.vn/audio/h/a/happy.mp3",
-        "ex_en": "We are happy to announce the engagement of our daughter.",
-        "ex_vi": "Chúng tôi rất hạnh phúc thông báo lễ đính hôn của con gái chúng tôi"
+        "explain": "",
+        "example_en": "We are happy to announce the engagement of our daughter.",
+        "example_vi": "Chúng tôi rất hạnh phúc thông báo lễ đính hôn của con gái chúng tôi"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/u/n/unhappy1.png",
         "text_en": "unhappy",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "Không hài lòng, không vui",
-        "pronoun": "/ʌnˈhæpi/",
+        "pronunciation": "/ʌnˈhæpi/",
         "audio": "http://audio.tflat.vn/audio/u/n/unhappy.mp3",
-        "ex_en": "I didn't realize but he was deeply unhappy at that time.",
-        "ex_vi": "Tôi thật sự đã không nhận ra, nhưng lúc đó anh ấy đã rất không hài lòng"
+        "explain": "",
+        "example_en": "I didn't realize but he was deeply unhappy at that time.",
+        "example_vi": "Tôi thật sự đã không nhận ra, nhưng lúc đó anh ấy đã rất không hài lòng"
       }
     ]
   },
@@ -402,29 +450,33 @@
     "text_en": "Friendship is a treasured gift, and every time I talk with you I feel as if I'm getting richer and richer.",
     "text_vi": "Tình bạn là món quà trân bảo, và mỗi khi tôi nói chuyện với bạn, tôi cảm thấy mình đã trở nên giàu có hơn.",
     "author": "Khuyết danh",
-    "viewer": "1,532",
+    "viewer": "1,539",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/r/treasure1.jpg",
         "text_en": "treasure",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "châu báu, kho báu",
-        "pronoun": "/treʒ.ər/",
+        "pronunciation": "/treʒ.ər/",
         "audio": "http://audio.tflat.vn/audio/t/r/treasure.mp3",
-        "ex_en": "the priceless art treasures of the Uffizi Gallery",
-        "ex_vi": "những kho tàng nghệ thuật vô giá của bảo tàng Uffizi Gallery"
+        "explain": "",
+        "example_en": "the priceless art treasures of the Uffizi Gallery",
+        "example_vi": "những kho tàng nghệ thuật vô giá của bảo tàng Uffizi Gallery"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/a/talk1.jpg",
         "text_en": "talk",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nói chuyện, chuyện trò",
-        "pronoun": "/tɔ:k/",
+        "pronunciation": "/tɔ:k/",
         "audio": "http://audio.tflat.vn/audio/t/a/talk.mp3",
-        "ex_en": "the two men talked",
-        "ex_vi": "hai người đàn ông đã nói chuyện với nhau"
+        "explain": "",
+        "example_en": "the two men talked",
+        "example_vi": "hai người đàn ông đã nói chuyện với nhau"
       }
     ]
   },
@@ -435,19 +487,21 @@
     "text_en": "At the shrine of friendship never say die, let the wine of friendship never run dry.",
     "text_vi": "Ở ngôi đền Tình bạn, đừng bao giờ nói từ chết; hãy để ly rượu tình bạn không bao giờ cạn.",
     "author": "Victor Hugo",
-    "viewer": "1,107",
+    "viewer": "1,114",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/h/shrine1.png",
         "text_en": "shrine",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "miếu thờ, điện thờ, am",
-        "pronoun": "/ʃraɪn/",
+        "pronunciation": "/ʃraɪn/",
         "audio": "http://audio.tflat.vn/audio/s/h/shrine.mp3",
-        "ex_en": "The singer’s grave in Paris has become a shrine.",
-        "ex_vi": "Mộ của ca sĩ ở Paris đã trở thành một ngôi đền"
+        "explain": "",
+        "example_en": "The singer’s grave in Paris has become a shrine.",
+        "example_vi": "Mộ của ca sĩ ở Paris đã trở thành một ngôi đền"
       }
     ]
   },
@@ -458,29 +512,33 @@
     "text_en": "Friendship cannot be borrowed. There is not shop where one can buy it. It is a connection between two people that is so giving.",
     "text_vi": "Tình bạn không thể vay mượn. Cũng chẳng thể tìm mua ở một cửa hàng nào. Chính sự kết nối giữa hai con người làm nên tình bạn.",
     "author": "Khuyết danh",
-    "viewer": "1,029",
+    "viewer": "1,037",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/o/borrow1.png",
         "text_en": "borrow",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "vay, mượn",
-        "pronoun": "/'bɔrou/",
+        "pronunciation": "/'bɔrou/",
         "audio": "http://audio.tflat.vn/audio/b/o/borrow.mp3",
-        "ex_en": "to take and use something that belongs to someone else, and return it to them at a later time",
-        "ex_vi": "Anh có muốn mượn một cây viết không?"
+        "explain": "to take and use something that belongs to someone else, and return it to them at a later time",
+        "example_en": "Do you want to borrow a pen?",
+        "example_vi": "Anh có muốn mượn một cây viết không?"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/connection1.jpg",
         "text_en": "connection",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự kết nối",
-        "pronoun": "/kə´nekʃən/",
+        "pronunciation": "/kə´nekʃən/",
         "audio": "http://audio.tflat.vn/audio/c/o/connection.mp3",
-        "ex_en": "I'm having problems with my Internet connection.",
-        "ex_vi": "Tôi có vấn đề với kết nối internet"
+        "explain": "",
+        "example_en": "I'm having problems with my Internet connection.",
+        "example_vi": "Tôi có vấn đề với kết nối internet"
       }
     ]
   },
@@ -491,39 +549,45 @@
     "text_en": "True friendship can afford true knowledge. It does not depend on darkness and ignorance.",
     "text_vi": "Tình bạn thực sự có thể mang lại tri thức thực sự. Nó không phụ thuộc vào bóng tối hay sự ngu dốt.",
     "author": "Henry David Thoreau",
-    "viewer": "1,099",
+    "viewer": "1,108",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/f/afford1.jpg",
         "text_en": "afford",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "có thể, có đủ khả năng",
-        "pronoun": "/ə'fɔ:d/",
+        "pronunciation": "/ə'fɔ:d/",
         "audio": "http://audio.tflat.vn/audio/a/f/afford.mp3",
-        "ex_en": "None of them could afford £50 for a ticket.",
-        "ex_vi": "Không ai có thể ả 50 đô cho 1 tấm vé"
+        "explain": "",
+        "example_en": "None of them could afford £50 for a ticket.",
+        "example_vi": "Không ai có thể ả 50 đô cho 1 tấm vé"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/k/n/knowledge1.jpg",
         "text_en": "knowledge",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "kiến thức, sự hiểu biết",
-        "pronoun": "/ˈnɒlɪdʒ/",
+        "pronunciation": "/ˈnɒlɪdʒ/",
         "audio": "http://audio.tflat.vn/audio/k/n/knowledge.mp3",
-        "ex_en": "There is a lack of knowledge about the tax system.",
-        "ex_vi": "Có một sự thiếu sự hiểu biết về hệ thống thuế"
+        "explain": "",
+        "example_en": "There is a lack of knowledge about the tax system.",
+        "example_vi": "Có một sự thiếu sự hiểu biết về hệ thống thuế"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/g/ignorance1.jpg",
         "text_en": "ignorance",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự phớt lờ",
-        "pronoun": "/ˈɪgnərəns/",
+        "pronunciation": "/ˈɪgnərəns/",
         "audio": "http://audio.tflat.vn/audio/i/g/ignorance.mp3",
-        "ex_en": "She was kept in ignorance of her husband's activities.",
-        "ex_vi": "Cô ấy vẫn giữ sự phớt lờ đối với những hành động của chồng cô ấy"
+        "explain": "",
+        "example_en": "She was kept in ignorance of her husband's activities.",
+        "example_vi": "Cô ấy vẫn giữ sự phớt lờ đối với những hành động của chồng cô ấy"
       }
     ]
   },
@@ -534,39 +598,45 @@
     "text_en": "Odd how much it hurts when a friend moves away - and leaves behind only silence.",
     "text_vi": "Đau đớn biết bao khi một người bạn ra đi – và chỉ để lại sau lưng sự im lặng.",
     "author": "Pam Brown",
-    "viewer": "2,352",
+    "viewer": "2,362",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/u/hurt1.png",
         "text_en": "hurt",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "làm thương",
-        "pronoun": "/hɜːrt/",
+        "pronunciation": "/hɜːrt/",
         "audio": "http://audio.tflat.vn/audio/h/u/hurt.mp3",
-        "ex_en": "Did you hurt yourself?",
-        "ex_vi": "Em tự làm thương mình à?"
+        "explain": "",
+        "example_en": "Did you hurt yourself?",
+        "example_vi": "Em tự làm thương mình à?"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/behind1.jpg",
         "text_en": "behind",
-        "word_type": "(prep.):",
+        "word_type": "(prep.)",
         "text_vi": "phía sau",
-        "pronoun": "/bɪˈhaɪnd/",
+        "pronunciation": "/bɪˈhaɪnd/",
         "audio": "http://audio.tflat.vn/audio/b/e/behind.mp3",
-        "ex_en": "The picture is behind the cupboard.",
-        "ex_vi": "Bức tranh phía sau tủ."
+        "explain": "",
+        "example_en": "The picture is behind the cupboard.",
+        "example_vi": "Bức tranh phía sau tủ."
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/i/silence1.jpg",
         "text_en": "silence",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự im lặng, sự trầm lặng",
-        "pronoun": "/ˈsaɪləns/",
+        "pronunciation": "/ˈsaɪləns/",
         "audio": "http://audio.tflat.vn/audio/s/i/silence.mp3",
-        "ex_en": "A scream broke the silence of the night.",
-        "ex_vi": "Một tiếng hét phá vợ sự tĩnh lặng của đêm"
+        "explain": "",
+        "example_en": "A scream broke the silence of the night.",
+        "example_vi": "Một tiếng hét phá vợ sự tĩnh lặng của đêm"
       }
     ]
   },
@@ -577,19 +647,21 @@
     "text_en": "If you see a friend without a smile; give him one of yours.",
     "text_vi": "Nếu bạn thấy một người bạn không có nụ cười, hãy lấy nụ cười của mình cho người đó.",
     "author": "Khuyết danh",
-    "viewer": "2,135",
+    "viewer": "2,142",
     "category": "tinh-ban",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/i/give1.jpg",
         "text_en": "give",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "cho, tặng, đưa",
-        "pronoun": "/ɡɪv/",
+        "pronunciation": "/ɡɪv/",
         "audio": "http://audio.tflat.vn/audio/g/i/give.mp3",
-        "ex_en": "Give your mother the letter.",
-        "ex_vi": "Đưa cho mẹ bạn lá thư"
+        "explain": "",
+        "example_en": "Give your mother the letter.",
+        "example_vi": "Đưa cho mẹ bạn lá thư"
       }
     ]
   }

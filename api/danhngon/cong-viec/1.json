@@ -6,28 +6,32 @@
     "text_en": "The way to get started is to quit talking and begin doing.",
     "text_vi": "Cách để khởi đầu là ngưng nói về vấn đề đó và bắt tay vào làm.",
     "author": "Walt Disney",
-    "viewer": "2,715",
+    "viewer": "2,731",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/t/start1.png",
         "text_en": "start",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "bắt đầu",
         "pronunciation": "/stɑːrt/",
         "audio": "http://audio.tflat.vn/audio/s/t/start.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He's just started a new job.",
         "example_vi": "Anh ấy vừa mới bắt đầu một công việc mới"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/t/a/talk1.jpg",
         "text_en": "talk",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "nói chuyện, chuyện trò",
         "pronunciation": "/tɔ:k/",
         "audio": "http://audio.tflat.vn/audio/t/a/talk.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "the two men talked",
         "example_vi": "hai người đàn ông đã nói chuyện với nhau"
       }
     ]
@@ -39,28 +43,32 @@
     "text_en": "Always believe in yourself. Do this and no matter where you are, you will have nothing to fear.",
     "text_vi": "Hãy luôn tin tưởng vào chính bản thân mình. Hãy làm dù bất kể nơi nào ta ở, ta sẽ không có gì để phải sợ.",
     "author": "Hayao Miyazaki",
-    "viewer": "5,081",
+    "viewer": "5,094",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/e/fear1.jpg",
         "text_en": "fear",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "sợ, sợ hãi",
         "pronunciation": "/fɪər/",
         "audio": "http://audio.tflat.vn/audio/f/e/fear.mp3",
-        "example_en": "Ex:",
+        "explain": "",
+        "example_en": "Don't worry, you have nothing to fear from us.",
         "example_vi": "Đừng lo lắng, bạn không có gì phải sợ chúng tôi cả"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/believe1.png",
         "text_en": "believe",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "tin",
         "pronunciation": "/bɪˈliːv/",
         "audio": "http://audio.tflat.vn/audio/b/e/believe.mp3",
-        "example_en": "Ex:",
+        "explain": "",
+        "example_en": "Believe me, she's not right for you.",
         "example_vi": "Tin tôi đi, cô ấy không thích hợp với bạn"
       }
     ]
@@ -72,28 +80,32 @@
     "text_en": "Our job is improving the quality of life, not just delaying death.",
     "text_vi": "Việc của chúng ta là cải thiện chất lượng cuộc sống, chứ không phải kéo dài tuổi thọ.",
     "author": "Patch Adams Movie",
-    "viewer": "2,832",
+    "viewer": "2,841",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/m/improve2.jpg",
         "text_en": "improve",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "tốt lên",
         "pronunciation": "/ɪmˈpruːv/",
         "audio": "http://audio.tflat.vn/audio/i/m/improve.mp3",
-        "example_en": "Ex:",
+        "explain": "",
+        "example_en": "I cannot seem to improve my memory even if I try.",
         "example_vi": "Tôi dường như không thể cải thiện trí nhớ của mình ngay cả khi tôi cố gắng."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/delay1.jpg",
         "text_en": "delay",
-        "word_type": "(v.):",
+        "word_type": "(v.)",
         "text_vi": "trì hoãn, hoãn lại",
         "pronunciation": "/di'lei/",
         "audio": "http://audio.tflat.vn/audio/d/e/delay.mp3",
-        "example_en": "Giải thích:",
+        "explain": "a period of time when someone or something has to wait because of a problem",
+        "example_en": "The bus was delayed due to inclement weather",
         "example_vi": "Xe bus bị chậm trễ tại vì thời tiết khắc nghiệt"
       }
     ]
@@ -105,19 +117,21 @@
     "text_en": "Small deeds done are better than great deeds planned.",
     "text_vi": "Những việc nhỏ được hoàn tất còn tốt hơn những kế hoạch lớn mà dở dang.",
     "author": "Peter Marshall (born March 30, 1926)",
-    "viewer": "1,860",
+    "viewer": "1,867",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/deed1.jpg",
         "text_en": "deed",
-        "word_type": "(n.):",
+        "word_type": "(n.)",
         "text_vi": "hành động",
         "pronunciation": "/diːd/",
         "audio": "http://audio.tflat.vn/audio/d/e/deed.mp3",
-        "example_en": "example_en",
-        "example_vi": "example_vi"
+        "explain": "",
+        "example_en": "",
+        "example_vi": ""
       }
     ]
   },
@@ -128,18 +142,20 @@
     "text_en": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
     "text_vi": "Khi mọi việc dường như đang chống lại bạn, hãy nhớ rằng máy bay cất cánh ngược chiều gió chứ không phải cùng chiều gió.",
     "author": "Henry Ford",
-    "viewer": "2,855",
+    "viewer": "2,865",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/g/against1.jpg",
         "text_en": "against",
-        "word_type": "(prep):",
+        "word_type": "(prep)",
         "text_vi": "chống lại",
         "pronunciation": "/əˈɡenst/",
         "audio": "http://audio.tflat.vn/audio/a/g/against.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She was forced to marry against her will",
         "example_vi": "Cô bị buộc phải kết hôn ngược lại với ý muốn của mình"
       }
     ]
@@ -151,38 +167,44 @@
     "text_en": "Only the people who dare to fail, will achieve big success.",
     "text_vi": "Chỉ những người dám thất bại mới đạt được thành công lớn.",
     "author": "John F. Kennedy",
-    "viewer": "2,793",
+    "viewer": "2,802",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/a/dare1.jpg",
         "text_en": "dare",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "Dám, dám đương đầu với",
         "pronunciation": "/deər/",
         "audio": "http://audio.tflat.vn/audio/d/a/dare.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He didn’t dare (to) say what he thought.",
         "example_vi": "Anh ấy không dám nói điều mà anh ta nghĩ"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/achieve1.jpg",
         "text_en": "achieve",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đạt được, giành được",
         "pronunciation": "/əˈtʃiːv/",
         "audio": "http://audio.tflat.vn/audio/a/c/achieve.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She finally achieved her ambition to visit South America.",
         "example_vi": "Cuối cùng thì cô ấy cũng đạt được tham vọng đến thăm Nam Mỹ."
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/success1.jpg",
         "text_en": "success",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "‹sự/người› thành công, thành đạt, thắng lợi",
         "pronunciation": "/sək'ses/",
         "audio": "http://audio.tflat.vn/audio/s/u/success.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the fact that you have achieved something that you want and have been trying to do",
+        "example_en": "The director's success came after years of hiring the right people at the right time",
         "example_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
       }
     ]
@@ -194,28 +216,32 @@
     "text_en": "Nothing can stop a person with strong determination from achieving their dreams; nothing on earth can help the person with ...",
     "text_vi": "Không gì có thể ngăn cản một người với sự quyết tâm cao độ đạt được giấc mơ của họ; không gì trên thế giới này có thể giúp được một người không có sự quyết tâm.",
     "author": "Thomas Jefferson",
-    "viewer": "2,593",
+    "viewer": "2,599",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/achieve1.jpg",
         "text_en": "achieve",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "đạt được, giành được",
         "pronunciation": "/əˈtʃiːv/",
         "audio": "http://audio.tflat.vn/audio/a/c/achieve.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She finally achieved her ambition to visit South America.",
         "example_vi": "Cuối cùng thì cô ấy cũng đạt được tham vọng đến thăm Nam Mỹ."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/e/determination1.jpg",
         "text_en": "determination",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự quyết tâm",
         "pronunciation": "/di,tə:mi'neiʃn/",
         "audio": "http://audio.tflat.vn/audio/d/e/determination.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I admire her determination to get it right.",
         "example_vi": "Tôi ngưỡng mộ sự quyết tâm của cô ấy để có được nó."
       }
     ]
@@ -227,18 +253,20 @@
     "text_en": "Start where you are. Use what you have. Do what you can.",
     "text_vi": "Khởi hành ngay nơi ta đứng. Sử dụng những gì ta đang có và làm những gì trong khả năng của mình.",
     "author": "Arthur Ashe",
-    "viewer": "1,742",
+    "viewer": "1,751",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/t/start1.png",
         "text_en": "start",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "bắt đầu",
         "pronunciation": "/stɑːrt/",
         "audio": "http://audio.tflat.vn/audio/s/t/start.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He's just started a new job.",
         "example_vi": "Anh ấy vừa mới bắt đầu một công việc mới"
       }
     ]
@@ -250,38 +278,44 @@
     "text_en": "Winners compare their achievements with their goals, while losers compare their achievements with those of other people.",
     "text_vi": "Người thắng cuộc so sánh thành quả của họ với mục tiêu họ đã đề ra, trong khi kẻ thua cuộc so sánh thành quả của họ với thành quả của những người khác.",
     "author": "Nido Qubein",
-    "viewer": "1,247",
+    "viewer": "1,254",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/compare1.png",
         "text_en": "compare",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "so sánh, đối chiếu",
         "pronunciation": "/kəm'peə/",
         "audio": "http://audio.tflat.vn/audio/c/o/compare.mp3",
-        "example_en": "Giải thích:",
+        "explain": "to examine people or things to see how they are similar and how they are different",
+        "example_en": "Once the customer compared the two products, her choice was easy.",
         "example_vi": "Khi mà người khách hàng được so sánh 2 sản phẩm, sự lựa chọn của cô ta sẽ dễ dàng hơn."
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/achievement1.png",
         "text_en": "achievement",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "thành tích, thành tựu; ‹sự› đạt được, hoàn thành",
         "pronunciation": "/ə'tʃi:vmənt/",
         "audio": "http://audio.tflat.vn/audio/a/c/achievement.mp3",
-        "example_en": "Giải thích:",
+        "explain": "a thing that somebody has done successfully, especially using their own effort and skill",
+        "example_en": "Joseph's achievements in R&D will go down in company history",
         "example_vi": "Thành tựu của Joseph ở bộ phận R&D sẽ được ghi vào lịch sử công ty"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/o/goal.jpg",
         "text_en": "goal",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "mục đích, mục tiêu; khung thành, cầu môn; bàn thắng, điểm",
         "pronunciation": "/goul/",
         "audio": "http://audio.tflat.vn/audio/g/o/goal.mp3",
-        "example_en": "Giải thích:",
+        "explain": "purpose",
+        "example_en": "Employees are expected to analyze and evaluate their annual goals",
         "example_vi": "Các nhân viên được yêu cầu phân tích và đánh giá các mục tiêu hàng năm của họ"
       }
     ]
@@ -293,28 +327,32 @@
     "text_en": "The more rejection you get, the better you are, the more you learned, the closer you are to your outcome.",
     "text_vi": "Không có thành công thực sự nào mà không bị phản đối. Càng bị phản đối, bạn càng tiến bộ hơn, học hỏi được nhiều hơn, và càng tiến gần hơn đến thành quả của mình.",
     "author": "Anthony Robbins",
-    "viewer": "1,326",
+    "viewer": "1,333",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/e/rejection1.jpg",
         "text_en": "rejection",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "sự từ chối, sự bác bỏ",
         "pronunciation": "/ri'dʒek∫n/",
         "audio": "http://audio.tflat.vn/audio/r/e/rejection.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Her proposal met with unanimous rejection",
         "example_vi": "Lời đề nghị của cô ấy đã bị thống nhất từ chối"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/o/u/outcome1.jpg",
         "text_en": "outcome",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "kết quả, hậu quả",
         "pronunciation": "/´aut¸kʌm/",
         "audio": "http://audio.tflat.vn/audio/o/u/outcome.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "We are waiting to hear the final outcome of the negotiations.",
         "example_vi": "Chúng tôi đang đợi để nghe kết quả cuối cùng từ cuộc đàm phán"
       }
     ]
@@ -326,48 +364,56 @@
     "text_en": "The person interested in success has to learn to view failure as a healthy, inevitable part of the process of getting to ...",
     "text_vi": "Người quan tâm đến thành công phải học cách xem thất bại như là một phần lành mạnh, không thể tránh khỏi của quá trình lên đến vị trí cao nhất.",
     "author": "Dr Diane Bauer",
-    "viewer": "1,842",
+    "viewer": "1,848",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/interested1.jpg",
         "text_en": "interested",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "Có quan tâm, thích thú",
         "pronunciation": "/´intristid/",
         "audio": "http://audio.tflat.vn/audio/i/n/interested.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I'm very interested in history",
         "example_vi": "Tôi rất quan tâm về lịch sử"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/e/healthy1.png",
         "text_en": "healthy",
-        "word_type": ":",
+        "word_type": "",
         "text_vi": "khỏe mạnh",
         "pronunciation": "/ˈhelθi/",
         "audio": "http://audio.tflat.vn/audio/h/e/healthy.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Keep healthy by eating well and exercising regularly",
         "example_vi": "Giữ gìn sức khỏe bằng cách ăn uống tốt và tập thể dục thường xuyên"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/inevitable1.png",
         "text_en": "inevitable",
-        "word_type": "(adj):",
+        "word_type": "(adj)",
         "text_vi": "không thể tránh được, chắc chắn xảy ra",
         "pronunciation": "/in´evitəbl/",
         "audio": "http://audio.tflat.vn/audio/i/n/inevitable.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "It was an inevitable consequence of the decision.",
         "example_vi": "Đó là một hệ quả không thể tránh khỏi của quyết định"
       },
       {
+        "id": 4,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/p/r/process1.png",
         "text_en": "process",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "cách thức, quy trình",
         "pronunciation": "/ˈprəʊses/",
         "audio": "http://audio.tflat.vn/audio/p/r/process.mp3",
-        "example_en": "Giải thích:",
+        "explain": "a series of something that are done in order to achieve a particular result",
+        "example_en": "There is a process for determining why your computer is malfunctioning",
         "example_vi": "Có một cách thức để xác định xem tại sao máy tính của anh bị trục trặc"
       }
     ]
@@ -379,28 +425,32 @@
     "text_en": "Our greatest glory is not in never failing, but in rising up every time we fail.",
     "text_vi": "Sự vẻ vang lớn nhất của chúng ta không phải nằm ở chỗ chưa bao giờ bị thất bại mà nằm ở chỗ vươn lên mỗi khi thất bại.",
     "author": "Ralph Waldo Emerson",
-    "viewer": "1,604",
+    "viewer": "1,612",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/l/glory1.png",
         "text_en": "glory",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự vinh quang, danh tiếng",
         "pronunciation": "/'glɔ:ri/",
         "audio": "http://audio.tflat.vn/audio/g/l/glory.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I do all the work and he gets all the glory.",
         "example_vi": "Tôi làm tất cả mọi việc và anh ta thì nhận tất cả những vinh quang"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/fail1.jpg",
         "text_en": "fail",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "thất bại",
         "pronunciation": "/ˈfeɪ/",
         "audio": "http://audio.tflat.vn/audio/f/a/fail.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I failed in my attempt to persuade her.",
         "example_vi": "Tôi đã thất bại trong việc nổ lực thuyết phục cô ấy"
       }
     ]
@@ -412,38 +462,44 @@
     "text_en": "While one person hesitates to try because afraid of failure, the other is busy making mistakes and becoming successful.",
     "text_vi": "Trong khi một người còn do dự thử vì sợ thất bại, người khác lại đang bận mắc lỗi và trở nên thành công.",
     "author": "Henry C Clink",
-    "viewer": "2,176",
+    "viewer": "2,183",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/e/hesitate1.png",
         "text_en": "hesitate",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "do dự",
         "pronunciation": "/ˈhezɪteɪt/",
         "audio": "http://audio.tflat.vn/audio/h/e/hesitate.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She hesitated before replying.",
         "example_vi": "Cô ấy do dự trước khi trả lời"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/f/a/failure1.png",
         "text_en": "failure",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hỏng, thiếu, yếu, trượt, thất bại, bất thành",
         "pronunciation": "/'feiljə/",
         "audio": "http://audio.tflat.vn/audio/f/a/failure.mp3",
-        "example_en": "Giải thích:",
+        "explain": "lack of success in doing or achieving something",
+        "example_en": "The success or failure of the plan depends on you.",
         "example_vi": "Kế hoạch thành công hay thất bại là phụ thuộc vào bạn"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/m/i/mistake1.png",
         "text_en": "mistake",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "lỗi, sai, nhầm",
         "pronunciation": "/mis'teik/",
         "audio": "http://audio.tflat.vn/audio/m/i/mistake.mp3",
-        "example_en": "Giải thích:",
+        "explain": "an action or an opinion that is not correct",
+        "example_en": "I made a mistake in adding up your bill and we overcharged you twenty dollars.",
         "example_vi": "Tôi đã nhầm lẫn khi tính tổng hóa đơn của anh và chúng tôi đã tính quá của anh 20 đô-la."
       }
     ]
@@ -455,38 +511,44 @@
     "text_en": "Success always comes to those who dare to act and seldom comes close to those who are too coward to take the consequences.",
     "text_vi": "Thành công luôn luôn đến với những người dám hành động và ít khi đến gần những người quá nhát gan không dám đón nhận hậu quả.",
     "author": "Jawaharlal Nehru",
-    "viewer": "1,191",
+    "viewer": "1,199",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/act1.jpg",
         "text_en": "act",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "hành động",
         "pronunciation": "/ækt/",
         "audio": "http://audio.tflat.vn/audio/a/c/act.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "The murder was the act of a psychopath.",
         "example_vi": "Các vụ giết người là hành động của kẻ tâm thần"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/c/o/consequence.jpg",
         "text_en": "consequence",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "kết quả, hậu quả, hệ quả; tầm quan trọng, tính trọng đại",
         "pronunciation": "/'kɔnsikwəns/",
         "audio": "http://audio.tflat.vn/audio/c/o/consequence.mp3",
-        "example_en": "Giải thích:",
+        "explain": "a result of something that has happened",
+        "example_en": "As a consequence of not having seen a dentist for several years, Lydia had several cavities.",
         "example_vi": "Là hậu quả của việc không đi khám nha sĩ trong vài năm, Lydia đã bị vài răng sâu rỗng"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/d/a/dare1.jpg",
         "text_en": "dare",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "Dám, dám đương đầu với",
         "pronunciation": "/deər/",
         "audio": "http://audio.tflat.vn/audio/d/a/dare.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "He didn’t dare (to) say what he thought.",
         "example_vi": "Anh ấy không dám nói điều mà anh ta nghĩ"
       }
     ]
@@ -498,28 +560,32 @@
     "text_en": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
     "text_vi": "Thành công không phải là chìa khóa mở cánh cửa hạnh phúc. Hạnh phúc là chìa khóa dẫn tới cánh cửa thành công. Nếu bạn yêu điều bạn đang làm, bạn sẽ thành công.",
     "author": "Albert Schweitzer",
-    "viewer": "2,896",
+    "viewer": "2,904",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/s/u/success1.jpg",
         "text_en": "success",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "‹sự/người› thành công, thành đạt, thắng lợi",
         "pronunciation": "/sək'ses/",
         "audio": "http://audio.tflat.vn/audio/s/u/success.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the fact that you have achieved something that you want and have been trying to do",
+        "example_en": "The director's success came after years of hiring the right people at the right time",
         "example_vi": "Thành công của giám đốc đã đến sau hàng năm trời thuê đúng người vào đúng thời điểm"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/h/a/happiness1.jpg",
         "text_en": "happiness",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hạnh phúc",
         "pronunciation": "/'hæpinis/",
         "audio": "http://audio.tflat.vn/audio/h/a/happiness.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "She struggled to find happiness in her life",
         "example_vi": "Cô ấy đã đấu tranh để tìm thấy hạnh phúc của mình"
       }
     ]
@@ -531,18 +597,20 @@
     "text_en": "If you do what you’ve always done, you’ll get what you’ve always gotten.",
     "text_vi": "Nếu bạn làm việc bạn luôn làm, bạn sẽ nhận được thứ bạn luôn nhận được.",
     "author": "Khuyết danh",
-    "viewer": "1,565",
+    "viewer": "1,572",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/e/get1.jpg",
         "text_en": "get",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "có được, nhận được",
         "pronunciation": "/get/",
         "audio": "http://audio.tflat.vn/audio/g/e/get.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I got a gift from Dave this morning",
         "example_vi": "Tôi nhận một món quà từ Dave sáng nay"
       }
     ]
@@ -554,28 +622,32 @@
     "text_en": "All glory comes from daring to begin.",
     "text_vi": "Tất cả vinh quang đều đến từ sự dám bắt đầu.",
     "author": "Eugene F Ware",
-    "viewer": "1,797",
+    "viewer": "1,803",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/g/l/glory1.png",
         "text_en": "glory",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự vinh quang, danh tiếng",
         "pronunciation": "/'glɔ:ri/",
         "audio": "http://audio.tflat.vn/audio/g/l/glory.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "I do all the work and he gets all the glory.",
         "example_vi": "Tôi làm tất cả mọi việc và anh ta thì nhận tất cả những vinh quang"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/b/e/begin1.jpg",
         "text_en": "begin",
-        "word_type": "(v):",
+        "word_type": "(v)",
         "text_vi": "bắt đầu",
         "pronunciation": "/bi'gin/",
         "audio": "http://audio.tflat.vn/audio/b/e/begin.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "Let's begin at page 9.",
         "example_vi": "Hãy bắt đầu từ trang 9"
       }
     ]
@@ -587,38 +659,44 @@
     "text_en": "There are risks and costs to action. But they are far less than the long range risks of comfortable inaction.",
     "text_vi": "Có nhiều rủi ro và mất mát khi ta hành động. Nhưng chúng còn kém xa vô số những rủi ro khi ta phởn phơ ù lì.",
     "author": "John F. Kennedy",
-    "viewer": "1,108",
+    "viewer": "1,114",
     "category": "cong-viec",
     "page": 1,
     "vocab": [
       {
+        "id": 1,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/r/i/risk1.png",
         "text_en": "risk",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "nguy cơ, sự nguy hiểm, sự rủi ro",
         "pronunciation": "/rɪsk/",
         "audio": "http://audio.tflat.vn/audio/r/i/risk.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the possibility of something bad happening at some time in the future",
+        "example_en": "The primary risk for most start-up businesses is insufficient capital",
         "example_vi": "Nguy cơ lớn nhất đối với hầu hết các cuộc khởi nghiệp là thiếu vốn"
       },
       {
+        "id": 2,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/a/c/action1.png",
         "text_en": "action",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "hành động, hoạt động",
         "pronunciation": "/ˈækʃn/",
         "audio": "http://audio.tflat.vn/audio/a/c/action.mp3",
-        "example_en": "Giải thích:",
+        "explain": "the events in a story, play, etc",
+        "example_en": "She began to explain her plan of action to the group.",
         "example_vi": "Cô ấy đã bắt đầu giải thích kế hoạch hành động của mình với nhóm"
       },
       {
+        "id": 3,
         "img_thumb": "http://audio.tflat.vn/data/cache/images/300x225/i/n/inaction1.jpg",
         "text_en": "inaction",
-        "word_type": "(n):",
+        "word_type": "(n)",
         "text_vi": "sự ì, sự không hoạt động",
         "pronunciation": "/in´ækʃən/",
         "audio": "http://audio.tflat.vn/audio/i/n/inaction.mp3",
-        "example_en": "Ví dụ:",
+        "explain": "",
+        "example_en": "The police were accused of inaction in the face of a possible attack.",
         "example_vi": "Cảnh sát bị cáo buộc không hành động khi đối bắt với cuộc tấn cộng có thể xảy ra"
       }
     ]
