@@ -4,12 +4,14 @@ import time
 from utils import save_to_json, HOST, HOST_MEDIA, remove_domain_from_url, get_text_or_empty
 
 TOTAL_PAGE = 2
+CATEGORY = "tinh-ban"
+
 BASE_URL = "https://tienganhtflat.com/danh-ngon?page={}&per-page=18"
+CAT_CONG_VIEC = "cong-viec"
 CAT_TINH_YEU = "tinh-yeu"
 CAT_CUOC_SONG = "cuoc-song"
 CAT_GIA_DINH = "gia-dinh"
 CAT_TINH_BAN = "tinh-ban"
-CAT_CONG_VIEC = "cong-viec"
 DANH_NGON = {
     "tinh-yeu": "https://tienganhtflat.com/danhngon/cat/tinh-yeu?page={}&per-page=18",
     "cuoc-song": "https://tienganhtflat.com/danhngon/cat/cuoc-song?page={}&per-page=18",
@@ -72,13 +74,14 @@ def crawl_all_quotes(category):
                 "id": count,
                 "a_href": a_href,
                 "img_thumb": img_thumb,
+                "img_thumb_large": words_list["img_thumb_large"],
                 "text_en": text_en,
                 "text_vi": text_vi,
                 "author": author,
                 "viewer": viewer,
                 "category": category,
                 "page": page,
-                "vocab": words_list,
+                "vocab": words_list["words"],
             }
 
             all_quotes.append(quote)
@@ -109,6 +112,15 @@ def crawl_vocab(url):
         return []
 
     soup = BeautifulSoup(response.text, "html.parser")
+
+    img_thumb_large = soup.select_one(".well .detail .content p img")[
+        "src"] if soup.select_one(".well .detail .content p img") else ""
+    img_thumb_large = remove_domain_from_url(img_thumb_large)
+    img_thumb_large = HOST + img_thumb_large
+
+    print("url", url)
+    print(img_thumb_large)
+
     words_list = soup.select(".words-list .item-content")
 
     words = []
@@ -158,7 +170,10 @@ def crawl_vocab(url):
 
         count += 1
 
-    return words
+    return {
+        "words": words,
+        "img_thumb_large": img_thumb_large
+    }
 
 # for category in DANH_NGON.keys():
     # crawl_all_quotes(category)
@@ -167,5 +182,7 @@ def crawl_vocab(url):
 # crawl_all_quotes(CAT_TINH_YEU)
 # crawl_all_quotes(CAT_CUOC_SONG)
 # crawl_all_quotes(CAT_GIA_DINH)
-crawl_all_quotes(CAT_TINH_BAN)
+# crawl_all_quotes(CAT_TINH_BAN)
 # crawl_all_quotes(CAT_CONG_VIEC)
+
+crawl_all_quotes(CATEGORY)
