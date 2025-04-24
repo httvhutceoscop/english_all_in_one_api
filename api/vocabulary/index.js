@@ -64,10 +64,26 @@
     totalPage: 2,
   },
   {
+    title: "Adventure Phrases",
+    subTitle: "",
+    imageUrl:
+      "https://httvhutceoscop.github.io/english_all_in_one_api/assets/img/english-adventure-phrases.jpg",
+    key: "english-adventure-phrases",
+    totalPage: 2,
+  },
+  {
+    title: "Adventure Words",
+    subTitle: "",
+    imageUrl:
+      "https://httvhutceoscop.github.io/english_all_in_one_api/assets/img/english-adventure-words.jpg",
+    key: "english-adventure-words",
+    totalPage: 6,
+  },
+  {
     title: "OFFICES",
     subTitle: "",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Channel_1_Israel_DSC0021.jpg/960px-Channel_1_Israel_DSC0021.jpg",
+      "https://httvhutceoscop.github.io/english_all_in_one_api/assets/img/office.jpg",
     key: "tu-vung-van-phong",
     totalPage: 1,
   },
@@ -75,7 +91,7 @@
     title: "STUDENTS",
     subTitle: "",
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/High_school_students%2C_SAS_Pudong.jpg/960px-High_school_students%2C_SAS_Pudong.jpg",
+      "https://httvhutceoscop.github.io/english_all_in_one_api/assets/img/students.jpg",
     key: "tu-vung-",
     totalPage: 1,
   },
